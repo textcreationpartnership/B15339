@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The amorous and tragicall tales of Plutarch wherevnto is annexed the hystorie of Cariclea &amp; Theagenes, and the sayings of the Greeke philosophers. Translated by Ia. Sanford.</title>
+            <title>Amatoriae narrationes. English</title>
+            <author>Plutarch.</author>
+         </titleStmt>
+         <extent>Approx. 101KB of XML-encoded text transcribed from 47 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15339</idno><idno type="EEBO-CITATION">99837339</idno>
+  <idno type="VID">177503</idno>
+  <idno type="EEBO-PROQUEST">2248549008</idno>
+  <idno type="STC">STC 20072</idno>
+  <idno type="STC">ESTC S101529</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99837339e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177503)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1001:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The amorous and tragicall tales of Plutarch wherevnto is annexed the hystorie of Cariclea &amp; Theagenes, and the sayings of the Greeke philosophers. Translated by Ia. Sanford.</title>
+                  <title>Amatoriae narrationes. English</title>
+                  <author>Plutarch.</author>
+                  <author>Heliodorus, of Emesa. Aethiopica. aut</author>
+                  <author>Sandford, James.</author>
+               </titleStmt>
+               <extent>[5], 40, [1] leaves   </extent>
+               <publicationStmt>
+                  <publisher>By H. Bynneman, for Leonard Maylard,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno. 1567.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation, by James Sandford, of Plutarch's "Amatoria narrationes" and Heliodorus' "Aethiopica", and "The sentences of the Greeke philosophers, translated for the most part out of French.".</note>
+                  <note>With a final colophon leaf.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177503:1"/>
+            <pb facs="tcp:177503:1"/>
+            <p>¶ The Amorous and Tragicall Tales of PLVTARCH Wherevnto is annexed the Hystorie of CARICLEA &amp; THEAGENES, and the sayings of the Greeke Philosophers.</p>
+            <p>
+               <hi>Translated by Ia. Sanford.</hi>
+            </p>
+            <figure>
+               <figDesc>seal with mermaid</figDesc>
+               <p>OMNIA TEM<g ref="char:EOLhyphen"/>PVS HABENT</p>
+               <p>BE</p>
+            </figure>
+            <p>¶ IMPRINTED AT LONDON BY H. Bynneman, for Leonard Maylard. ANNO. 1567.</p>
+            <pb facs="tcp:177503:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:177503:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177503:3"/>
+            <pb facs="tcp:177503:3"/>
+            <head>To the right worshipful Sir Hugh Pawlet Knight, Iames Sanforde vvisheth long health, vvith increase of all prosperitie.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LTHOVGH DEMADES (right vvor<g ref="char:EOLunhyphen"/>shipfull) sayde that the lavvs of DRACO vvere for their extreme cruel<g ref="char:EOLhyphen"/>tie vvritten vvith bloud, bycause to all offences vvere thei neuer so smal an equall punnyshment vvas appointed, yet some there vvere vvhich recey<g ref="char:EOLhyphen"/>ued a vvorthie punnishment, amongst vvhich that lavve by him made, concerning Idlenesse, is to be nūbred, vvhich he punished by death, &amp; that vvor<g ref="char:EOLhyphen"/>thilie if he dyd respecte the sequele, and the rotten braunches vvhich did spring of that vice, supposing thereby to preuent many myschieues and enormi<g ref="char:EOLhyphen"/>ties grovving to the cōmon vveale. What ruine and decay it bringeth to the Weale publike tyme doeth not novve require in generall to declare, but thys particular vice Lavvlesse lust, is to be expressed, the vvhich aryseth and taketh hys begynning of Idle<g ref="char:EOLhyphen"/>nesse. For, vvhen the mind is not occupied, then do yll affections possesse it, and the lothsome iuste of Carnall concupiscence entreth therein. THEO<g ref="char:EOLhyphen"/>PHRASTVS on a time being demaunded vvhat
+<pb facs="tcp:177503:4"/>this luxurious Loue vvas, he aunsvvered, that it vvas the affectiō of an ydle minde. OVID in like ma<g ref="char:EOLhyphen"/>ner in his fyrst Elegie or lamentable Song sayeth.</p>
+            <q>Et in vacuo pectore regnet Amor.</q>
+            <p>There is nothyng vvhich causeth a mā more to de<g ref="char:EOLhyphen"/>generate from his kind than this, for it doth make him rather to resemble Beastes, than creatures en<g ref="char:EOLhyphen"/>dovved vvith reason. Wherfore the Poets not vvith<g ref="char:EOLhyphen"/>out a cause haue painted out &amp; described Loue like a Shephierde, signifying therby, that vvhoso follo<g ref="char:EOLhyphen"/>vveth sensualitie, and inordinate desire of the flesh, are more like beasts than men, for vvhen reason ru<g ref="char:EOLhyphen"/>leth not affection and appetite, men become like to vnreasonable creatures redy and apt for al vvicked<g ref="char:EOLhyphen"/>nesse, embracing vice as a vertue, and folovving en<g ref="char:EOLhyphen"/>mitie, strife, fighting, and many other inconueni<g ref="char:EOLhyphen"/>ences, vvhich proceede thereof, as things good and auaileable. Who seeth not foolish Cupid painted blinde, bicause they vvhich are vvounded vvith hys siery Arrovves liue vvithout feeling of Death, they haue nothing in reuerence, neyther their Fathers, nor friendes, they feare nothing, neither the slaun<g ref="char:EOLhyphen"/>derous reproch of Infamie, nor the doubtful daun<g ref="char:EOLhyphen"/>gers of life, but like blinde mē runne headlong in<g ref="char:EOLhyphen"/>to destruction. The famous Comicall Poet ME<g ref="char:EOLhyphen"/>NANDER considering the aforesayde things, and that by no daunger, aduise and counsell, luxurious Louers vvoulde be feared from their purpose, doth iustly lament and bevvaile it in this Verse:
+<q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q>
+               <pb facs="tcp:177503:4"/> Which is thus in English.
+<q>
+                  <hi>Alas, Alas, Loue is to men a great myschiefe.</hi>
+               </q> OVID in his Bookes entituled DEREMEDIO AMORIS, shevveth a meane hovve to auoid this miscrable affection, in tvvo Verses, vvhich are these in effect.
+<q>
+                  <l>
+                     <hi>If thou flée Idlenesse <hi>Cupid</hi> hath no might,</hi>
+                  </l>
+                  <l>
+                     <hi>His bowe lieth broken, his fire hath no light.</hi>
+                  </l>
+               </q> CRATES the Thebane sayd that there vvere tvvo thinges princypally vvhych subdued this affection, time and hunger. Diuers vnlavvefull vvayes there are vvhereby this is purchased, vvhych rather pro<g ref="char:EOLhyphen"/>uoke to madnesse than Loue, as charmed drink cal<g ref="char:EOLhyphen"/>led in Latine PHILTRA, AMATORIA PO<g ref="char:EOLhyphen"/>CVLA and HIPPOMANES, al vvhich do cause furie and madnesse, not Loue, according to the o<g ref="char:EOLhyphen"/>piniō of many notable Writers, as of OVID, IV<g ref="char:EOLhyphen"/>VENAL, VIRGIL, PROPERTIVS. It is left in vvriting, that LVCRETIVS the Poet vvith a charmed drinke (as some suppose) giuen him by his Wife, vvho loued him too tenderly, became so mad, that at length he murdred himselfe vvith hys ovvne hands. ARISTOTLE vvriteth Li. 2. mag. moral. that a certayne Woman gaue a man a char<g ref="char:EOLhyphen"/>med drinke, vvherevpon sodaynely he fell dovvne dead. Many other lyke examples may be found in Authours, vvhich vvould terrifie such as enterprize
+<pb facs="tcp:177503:5"/>those vnlavvfull meanes, frō their purpose. In stead of this vvicked meanes vve ought to vse gentle and milde manners, louing them vvhich loue vs. Wher<g ref="char:EOLunhyphen"/>fore very vvell doth OVID vvarne vs in hys secōd Booke DE ARTE AMANDI, speaking of those charmed drinkes, vvhose vvordes are these:
+<q>
+                  <l>
+                     <hi>Sit procul omne nefas, vt ameris ama<g ref="char:EOLhyphen"/>bilis esto.</hi>
+                  </l>
+                  <l>
+                     <hi>Al wicked artes to do not remember.</hi>
+                  </l>
+                  <l>
+                     <hi>But loue for loue againe do y<seg rend="sup">u</seg> render.</hi>
+                  </l>
+               </q> That Historie of PLVTARCH in hys preceptes of Mariage, Capit. 24. is not vnfitte for this place. PHILIP king of Macedon, loued a poore Thes<g ref="char:EOLhyphen"/>salian maid, vvherof vvhen OLYMPIAS his vvife vvas aduertized, she toke it very grieuously, especi<g ref="char:EOLhyphen"/>ally bicause the maiden vvas reported to haue got<g ref="char:EOLhyphen"/>ten the loue of PHILIP vvith charmed and ma<g ref="char:EOLhyphen"/>gical drinkes. Wherfore she commaūded the may<g ref="char:EOLhyphen"/>den to be brought before hir, to the end to impri<g ref="char:EOLhyphen"/>son hir, or to bannish hir into farre countreyes. But vvhen she savv the maydē to be vvel fauored, beau<g ref="char:EOLhyphen"/>tifull, vvittie, and in all poynts amiable and louely, Let false accusation goe (sayde OLYMPIAS) for thou hast in thy self the strength of poyson: neither vvas she aftervvarde displeased vvith the mayden, or vvith hir husband the King. Gentle manners is the true charmed drynk vvherby the vvoman ought to vvin the husband, and vvhich all should put in vre. The fruites vvhich spring of hote Loue and fleshly lust are declared in those Tales follovving, murder grevv of it, and the reuengemente of murder com<g ref="char:EOLhyphen"/>mitted,
+<pb facs="tcp:177503:5"/>enfued thesame. The fatherly affection that SCEDASVS and MELISSVS dyd beare vnto their children, is of all parents to be follovved. The filthie fact of ARCHIAS is vtterly to be abhor<g ref="char:EOLhyphen"/>red, &amp; altogether to be rooted out of mens mindes, much lesse to be commytted, for it is a thing more than beastly, and against nature as PLATO saith. We oughte to take ALGIPPVS as a true paterne and example to imitate, and not (as EPICTETVS sayd) desist from vvell doing, vvhatsoeuer men say or do, but alvvayes perseuer in goodnesse, seeking after such things as are auaileable for the common Weale, in so doing vve liuing shall not onely haue great honor, vvhich (as TVLLIE sayd) is a diuine goodnesse, but dying shall merite and obtayne immortall fame, vvhych vvas the marke that anti<g ref="char:EOLhyphen"/>quity shotte at, and did couet after death to haue an euerlasting fame for vertuous deedes done, and no<g ref="char:EOLhyphen"/>ble enterprises atchieued, as CICERO, IVLIVS CAESAR, and POMPEIVS did, and not by any vnlavvfull and vvicked meanes, as foolish HERO<g ref="char:EOLhyphen"/>STRATVS dyd, vvho to haue a perpetuall name, burned the famous Tēple of DIANA at Ephesus.</p>
+            <p>These fevve lines (right vvorshipful) I haue tran<g ref="char:EOLhyphen"/>slated at leysure times, vvhich although they seeme scarce vvorthie the translation, yet I tooke them in hand, supposing that to be true vvhich the vvelskil<g ref="char:EOLhyphen"/>led PLINIE sayd: There is no Booke so naught but in some part is profitable. I haue ioyned here<g ref="char:EOLhyphen"/>vnto another small Hystorie and the sayings of the Philosophers of Greece, desiring you to accept and take them vvith such gratefulnesse of mind as AR<g ref="char:EOLhyphen"/>TAXERXES
+<pb facs="tcp:177503:6"/>receyued a handful of vvater giuen him by a poore man, vvhich vvas the best gift he had to present him vvithal.. Thus I leaue to trouble your vvorship, beseching almighty God to preserue you and all yours in health and prosperitie.</p>
+            <figure>
+               <figDesc>blazon or coat of arms</figDesc>
+               <p>GARDES LA FOY AV DIEV ET AV ROY</p>
+            </figure>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:177503:6"/>
+            <lg>
+               <l>THe learned Poet for his badge</l>
+               <l>doth giue the whitish Swanne,</l>
+               <l>The spreading Eagle for his badge</l>
+               <l>doth claime the valiaunt man,</l>
+               <l>But auncient <hi>PAWLETS</hi> prowesse hath</l>
+               <l>in <hi>Mars</hi> his bloudie fight,</l>
+               <l>A warlike wight bereft of life</l>
+               <l>and yet put not to flight.</l>
+               <l>The Harnest arme, the Arming sword,</l>
+               <l>in hand yclapsed fast,</l>
+               <l>Declare the same, and is a signe</l>
+               <l>of worthie feates ypast.</l>
+               <l>A valiant, warlike noble man</l>
+               <l>in Chiualrie is he,</l>
+               <l>Therfore the Eagle fierce and bolde</l>
+               <l>in badge may giuen be.</l>
+            </lg>
+            <closer>
+               <signed>A.v.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177503:7"/>
+            <head>¶ To the Reader.</head>
+            <lg>
+               <l>THe paynfull Bee his sauorie Honie takes</l>
+               <l>Of stinking floure, and Rose vvhich smelleth vvel,</l>
+               <l>And carued Combes in Hiue vvith skill he makes</l>
+               <l>To keepe the same, corruption to expell.</l>
+               <l>¶ So (gentle Reader) profite mayst thou gaine</l>
+               <l>Of certaine Bokes vvhich are some good, some yll,</l>
+               <l>Wherby vvith chaunge to recreate thy braine</l>
+               <l>And it vvith sundrie sortes of matter fyll.</l>
+               <l>¶ In vvriting leaue did ARISTOTLE vvise,</l>
+               <l>If contraries together thou conferre,</l>
+               <l>They vvill therevvith more euident arise,</l>
+               <l>And shevve themselues vvherein they do differre.</l>
+               <l>¶ If filthy Vice by Vertue faire be plac'd</l>
+               <l>Which doth excell the case is very plaine,</l>
+               <l>A faith defilde is vtterly defac'd</l>
+               <l>By light of loyaltie vvhich doth it staine.</l>
+               <l>¶ The Appetite vvhich doth of Nature rise,</l>
+               <l>Of duetie due allovved ought to bee,</l>
+               <l>But Appetite, vvhich reason doth despise,</l>
+               <l>Mysseleadeth not a fevve, as is to see.</l>
+               <l>¶ Keepe mediocr<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ie in matters all,</l>
+               <l>Which is the best, as PHOCILID doth say.</l>
+               <l>Let not thy deedes in extreames lurches fall,</l>
+               <l>But stay in constant course of Vertues vvay.</l>
+               <l>¶ If PLVTARCH publisht these to this intente</l>
+               <l>(As I suppose) the faultes to manifest</l>
+               <l>Which spring of lavvelesse lust, the same I mente,</l>
+               <l>That men the like offences may detest.</l>
+            </lg>
+            <p>
+               <hi>Tutto per il meglio.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="tales">
+            <pb facs="tcp:177503:7"/>
+            <head>¶ Amorous Tales.</head>
+            <div type="tale">
+               <head>¶ <hi>Of two yong men, which striuing for a Maiden whome they loued entierly, rent hir in pieces, and of the end of thē both.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg>N <hi>Aleartum</hi> a Ci<g ref="char:EOLhyphen"/>tie of <hi>Beotia,</hi> was a Mayden of excellent beautie, <hi>Aristoclea</hi> by name, Daughter of a certain man cal<g ref="char:EOLhyphen"/>led <hi>Theophanes.</hi>
+               </p>
+               <p>This Maiden .ij. yong men loued, <hi>Stra<g ref="char:EOLhyphen"/>to</hi> the <hi>Horchomenian,</hi> and <hi>Callisthenes</hi> the <hi>
+                     <hi>Aliartian.</hi> Strato</hi> was y<seg rend="sup">e</seg> richer and much more inflamed with y<seg rend="sup">e</seg> Loue of the Damsell: for by chaunce he sawe hir in <hi>Lebaida,</hi> when she washed hir selfe the same time in the Fountaine <hi>Herrina,</hi> &amp; was going to King <hi>Iupiter</hi> with a con<g ref="char:EOLhyphen"/>secrated Caskette. <hi>Theophanes</hi> being vncertaine what to doe (for he feared <hi>Strato,</hi> as one, who both in wealth and parentage surpassed well néere all the <hi>Beotians</hi>) intended to go and aske coun<g ref="char:EOLhyphen"/>saile of the Oracle <hi>Trophonium</hi> as cō<g ref="char:EOLhyphen"/>cerning
+<pb facs="tcp:177503:8"/>that choise. But <hi>Strato,</hi> when he was persuaded by the Maydes of the house, that she dyd beare more affection toward him, that to <hi>Calisthenes,</hi> he did al his endeuour, that she might haue the choise to marrie: but after that <hi>Theo<g ref="char:EOLhyphen"/>phanes</hi> in the presence of all men asked his daughter as touching mariage, and she sayd that she would haue <hi>Calisthe<g ref="char:EOLhyphen"/>nes,</hi> immediatly it apeared that <hi>Strato</hi> toke it very grieuously. Then .ij. dayes after he came to <hi>Theophanes,</hi> and <hi>Ca<g ref="char:EOLhyphen"/>listhenes</hi> affirming that he would kepe and obserue the friendship which he had with them although some God hath en<g ref="char:EOLhyphen"/>uied at his mariage: they commended him, and did bid him to the mariage din<g ref="char:EOLhyphen"/>ner. <hi>Strato</hi> prouided a great companie of his familiars and seruauntes, and cō<g ref="char:EOLhyphen"/>maunded all, to disperse thēselues some here, some there, and as it were to hyde themselues among the assemblie &amp; mul<g ref="char:EOLhyphen"/>titude of the people, vntill the Mayden wente to the Fountaine (as she was ac<g ref="char:EOLhyphen"/>customed) which is called <hi>Cnisoessa,</hi>
+                  <note place="margin">Cnisoessa a Fountaine.</note> y<seg rend="sup">e</seg> she might with greater reuerence do sa<g ref="char:EOLhyphen"/>crifice to the Nimphes, which sacrifices
+<pb n="2" facs="tcp:177503:8"/>were called <hi>Protelia.</hi>
+                  <note place="margin">Protelea a kinde of sacrifice.</note> Then the inuasiō being made, they which were set in the ambush toke the Maid. When that was done, <hi>Strato</hi> drewe the Mayde towar<g ref="char:EOLhyphen"/>des hym, contrariwise <hi>Calisthenes</hi> (as it beséemed him) drew hir back towards him: the like did the companions of ech other, euery one asmuch as in them lay, vntil the Maydē was rent in pieces and depriued of bir life betwéene y<seg rend="sup">e</seg> Relisters handes. <hi>Calisthenes</hi> then by &amp; by with<g ref="char:EOLhyphen"/>drewe himselfe from al mens companie. And afterward no man had sure know<g ref="char:EOLhyphen"/>ledge whether he slewe himselfe, or else going from <hi>Beotia</hi> liued in exile. But <hi>Strato</hi> in the sight of all men lying vpō the Mayden, did with his sworde mur<g ref="char:EOLhyphen"/>der himselfe.</p>
+            </div>
+            <div type="tale">
+               <head>Of a Boy that was rent in pieces, part<g ref="char:EOLhyphen"/>ly by him that offred violēce vnto him &amp; partly by his father rescuing him.</head>
+               <p>WHen a certain man called <hi>Phi<g ref="char:EOLhyphen"/>don,</hi> practised wyles to beare rule and dominion ouer y<seg rend="sup">e</seg>
+                  <hi>Pe<g ref="char:EOLhyphen"/>loponensians,</hi> and would haue
+<pb facs="tcp:177503:9"/>the Citie <hi>Argiua,</hi> where he was borne, to gouerne other Cities, first he practi<g ref="char:EOLhyphen"/>sed deceipt with the <hi>Corinthians:</hi> for he sent vnto them for a thousand yong mē, excelling as well in strength, as in vali<g ref="char:EOLhyphen"/>ant courage. Afterward, they were sent <hi>Dexander</hi> being their Captaine. Ther<g ref="char:EOLhyphen"/>fore when <hi>Phidon</hi> was minded to in<g ref="char:EOLhyphen"/>trappe them, that he might weaken <hi>Co<g ref="char:EOLhyphen"/>rinth,</hi> and that shée did all things at hir wil and pleasure: (for he perceiued that to be as it were the onely defence of all <hi>Peloponesus</hi>) he made some of his fel<g ref="char:EOLhyphen"/>lowes partakers with him in the whole matter. Emong them also there was a certain man called <hi>Abron</hi> abiding with <hi>Dexander,</hi> which disclosed and shewed all the Conspiracie: whereby it came to passe, that before the time of conspiracie al departed from <hi>Corinth</hi> in safetie. <hi>Phi<g ref="char:EOLhyphen"/>don</hi> serched diligently for the bewrayer of that secrete, and did all his endeuour about that. <hi>Abron</hi> truly being afrayde, he togither with his Wife and familie went to <hi>Corinth,</hi> and dwelled in <hi>Melis<g ref="char:EOLhyphen"/>sus,</hi> which is a village belonging to the territorie of <hi>Corinth.</hi> There he begat a
+<pb n="3" facs="tcp:177503:9"/>sonne, which after the name of the place was called <hi>Melissus:</hi> this <hi>Melissus</hi> had a sonne called <hi>Acteon,</hi>
+                  <note place="margin">Acteon.</note> excelling both in beautie and modestie among his equals. Very many loued hym, but most feruēt<g ref="char:EOLhyphen"/>ly of al, <hi>Archias</hi> one of the <hi>Heraclidians</hi> stock and kindred, which surmounted al the <hi>Corinthians</hi> both in riches and po<g ref="char:EOLhyphen"/>wer. When he had tempted the yong man, but all in vaine, he sought by force to obtaine his desire. He then going a bāketting and reuelling to <hi>Melissus</hi> his house, enuironed and accompained with a great companie of his friends and ser<g ref="char:EOLhyphen"/>uants, assayd to cary away the boy. His father then resistyng together with his neighbours, which came in all haste to help him, &amp; drawing back towards them the sillie wretch, in the resisters handes, <hi>Acteon</hi> was rent in pieces. This done, euery man wente home. But <hi>Melissus</hi> brought y<seg rend="sup">e</seg> boy his carcasse into the place of Iudgement, and there shewed it with great dolour and lamentation, and also earnestly required punyshment for the authours of that villanous déede. Al tru<g ref="char:EOLhyphen"/>ly toke pitie of the old man, yet did they
+<pb facs="tcp:177503:10"/>nothing beside. Therfore when he came home, the matter beyng not ended, ob<g ref="char:EOLhyphen"/>seruing &amp; watching for the time, when the great assemblies of the people were at <hi>Isthmus,</hi> climyng vpon the temple of <hi>Neptune,</hi> lamentably desired the <hi>Corin<g ref="char:EOLhyphen"/>thians,</hi> and reckned vp the benefits of his father <hi>Abron,</hi> and when hée had called vpon the Gods, he cast him selfe downe headlong frō the Temple. Not long af<g ref="char:EOLhyphen"/>ter, a gret violence of the sea &amp; pestilence inuaded the Citie. The Oracle then be<g ref="char:EOLhyphen"/>ing demaūded as concerning the health of the citie, answered, y<seg rend="sup">t</seg> it was the wrath of <hi>Neptune</hi> which should not ceasse vn<g ref="char:EOLhyphen"/>till they did reuenge <hi>Acteon</hi> his death. <hi>Archias</hi> hering this (for he was pre<g ref="char:EOLhyphen"/>sent at the Oracle) returned not to <hi>Corinth,</hi> but sailing into <hi>Si<g ref="char:EOLhyphen"/>cilia,</hi>
+                  <note place="margin">Syracusas built by Archias.</note> buylte <hi>Syracusas,</hi> and when hée had there be<g ref="char:EOLhyphen"/>gotten .ij. daughters, <hi>Telephus</hi> whose floure of age he had plucked, who went also with him into <hi>Sicilia,</hi> conspi<g ref="char:EOLhyphen"/>red his death.</p>
+            </div>
+            <div type="tale">
+               <pb facs="tcp:177503:10"/>
+               <head>Of two Maidens, which bicause they woulde not abandon their chastitie to two yong men which sought it, were by them defloured, and after that slaine. And how their father in seeking re<g ref="char:EOLhyphen"/>uengement of the .ij. yong men, coulde haue no iustice executed, wherupon he slewe him selfe.</head>
+               <p>APore man called <hi>Scedasus</hi> dwelt in <hi>Leuctra,</hi> which is a little vil<g ref="char:EOLhyphen"/>lage belonging to the Territorie of <hi>Thespis.</hi> This man had two daughters <hi>Hippo</hi> and <hi>Miletia,</hi> or els (as some say) <hi>Theano</hi> &amp; <hi>Euexippa. Sce<g ref="char:EOLhyphen"/>dasus</hi> truly was an honest man and to<g ref="char:EOLhyphen"/>wards straungers very gentle, although he were of no great possessions. There<g ref="char:EOLhyphen"/>fore when there came .ij. yong men of <hi>Sparta</hi> to his house,
+<note place="margin">Sparta other vvise called Lacedemon.</note> they wer very glad<g ref="char:EOLhyphen"/>ly intertained. And being there at oast, were very vehemētly inflamed with the loue of the maidens, but the honesty and good intertainment of <hi>Scedasus,</hi> did let them to do any villanous acte. The next day, they directed their iourney towards <hi>Pitho,</hi> where they had appointed to go:
+<pb facs="tcp:177503:11"/>and after they had asked counsaile of the Oracle of <hi>Apollo,</hi> as the matter requi<g ref="char:EOLhyphen"/>red, returned home, and makyng their iourney through <hi>Beotia,</hi> wente againe to <hi>Scedasus</hi> his house. Hée by good ad<g ref="char:EOLhyphen"/>uenture was from home, but his daugh<g ref="char:EOLhyphen"/>ters receyued them as they were accu<g ref="char:EOLhyphen"/>stomed, who when they had found them alone withoute any succour or ayde, they defloured them: whiche innocent Virgins being in thraldome and trou<g ref="char:EOLhyphen"/>ble when they sawe beyonde measure to tourment them selues continually, for the contumelie and reproche receyued, killed them both, and after they had cast the carkases into a Well, departed from thence. <hi>Scedasus</hi> returning home, sawe the Maidens no where, but founde all thinges in safetie which he lefte there, and being vncertaine of al things, stoode still a pretie space, vntil a little Brache, signifying by his whining, and somtime running to him, sometime returning to the well, he coniectured that which was in déede, then pulled he out his daugh<g ref="char:EOLhyphen"/>ters bodies. And when his neighbours tolde him, that they sawe the <hi>Lacede<g ref="char:EOLhyphen"/>monians</hi>
+                  <pb facs="tcp:177503:11"/>go into his house the day be<g ref="char:EOLhyphen"/>fore, which wer at host, and lodged with him a fewe dayes past, he surely percey<g ref="char:EOLhyphen"/>ued that they committed that shamefull and hainous acte. For a fewe dayes be<g ref="char:EOLhyphen"/>fore, they dyd praise the Maydens, and sayde, they were very happie, whiche should mary with them. Wherfore then he determined to goe to <hi>Lacedemon,</hi> and to declare all the matter to the high offi<g ref="char:EOLhyphen"/>cers called <hi>Ephori,</hi> desiring aide therin.
+<note place="margin">Ephori.</note> But when he was arriued to the Terri<g ref="char:EOLhyphen"/>torie of <hi>Argos,</hi> being preuēted by night rested him selfe in an Inne, where was also an other olde man being a citizen of <hi>Oreum,</hi> which is a towne in y<seg rend="sup">e</seg> territorie of <hi>Estiatis:</hi> whome when he sawe ma<g ref="char:EOLhyphen"/>king a lamentable noise, and cursing the <hi>Lacedemonians,</hi> asked him what displea<g ref="char:EOLhyphen"/>sure the <hi>Lacedemonians</hi> had done vnto him. He declared that one called <hi>Aristo<g ref="char:EOLhyphen"/>demus,</hi> a <hi>Lacedemonian,</hi> but sent to <hi>O<g ref="char:EOLhyphen"/>reum,</hi> there to beare office, to haue vsed extreme crueltie and iniquitie. For (said he) when he loued my sonne, and coulde not atchieue any thing by desire and pro<g ref="char:EOLhyphen"/>mise, vsing violence attempted to take
+<pb facs="tcp:177503:12"/>him away by force from the wrastlyng place, but the master of y<seg rend="sup">e</seg> wrastling let<g ref="char:EOLhyphen"/>ting it, and many yong men helping him forthwith <hi>Aristodemus</hi> departed: but y<seg rend="sup">e</seg> day following he toke away the Boy by force, and carried him ouer to the nexte shoare in a Galley hauing thrée paire of ores prepared for that purpose, where he endeuored to defloure the boy, and stout<g ref="char:EOLhyphen"/>ly striuing with him, slewe him with his sworde. Then returning back to <hi>Oreum</hi> made a great feast. Truly I in the mean time heard a shamefull and abhominable acte, how that my sonne was miserably slain by y<seg rend="sup">e</seg> hands of <hi>Aristodemus,</hi> wher<g ref="char:EOLhyphen"/>fore I went and buried his body. Then I went to <hi>Lacedemon,</hi> and declared all the matter to the high officers, whereof they had no regarde at al. <hi>Scedasus</hi> hea<g ref="char:EOLhyphen"/>ring this was greately troubled, for hée supposed that they would not haue any regard of him: (as they had not in dede) so he againe for his parte shewed his ca<g ref="char:EOLhyphen"/>lamitie and miserie to the stranger. He willed and exhorted him not to go to the high officers, but to returne to <hi>Beotia,</hi> and to bury his children. Yet <hi>Scedasus</hi>
+                  <pb n="8" facs="tcp:177503:12"/>would not be persuaded so to doe. Then he went to <hi>Lacedemon,</hi> and communed with the high Officers. They regarded him not. He came to the great rich men shortly after, making suite and labour to all the communaltie, complaining of his miserie. All which things seing they had no good successe, and came to none effect, <hi>Scedasus</hi> ran through the Citie, held vp his handes towardes heauen, stroke the grounde, called vpon the Furies, and af<g ref="char:EOLhyphen"/>ter these things done, killed himself wil<g ref="char:EOLhyphen"/>fully. Wherfore not long after, the <hi>La<g ref="char:EOLhyphen"/>cedemonians</hi> suffered punishement.
+<note place="margin">Murder pu<g ref="char:EOLhyphen"/>nished.</note> For where as they gouerned all <hi>Greece,</hi> and had fortified all their Cities with garri<g ref="char:EOLhyphen"/>sons of men of warre, <hi>Epaminundas</hi> the <hi>Thebane</hi> lefte not one of them aliue, which wer in garrison in his Citie. The <hi>Lacedemonians</hi> making warre, the <hi>The<g ref="char:EOLhyphen"/>bans</hi> mette them at <hi>Leuctra,</hi> surely ho<g ref="char:EOLhyphen"/>ping there to haue the victorie. For they recouered before in the very same place their libertie, at such time as <hi>Amphic<g ref="char:EOLhyphen"/>tion</hi> was driuen into exile by <hi>Sthelon,</hi> and fled for succor to the citie of <hi>Thebes:</hi> who when he had made the <hi>Calcidenses</hi>
+                  <pb facs="tcp:177503:13"/>tributarie, made also the <hi>Thebanes</hi> frée from paying Tribute, for so much as he slew <hi>Chalcodontes</hi> king of y<seg rend="sup">e</seg>
+                  <hi>Euboians.</hi> Then all the <hi>Lacedemonians</hi> were slain &amp; put to flight at the monument of <hi>Sce<g ref="char:EOLhyphen"/>dasus</hi> his daughters. It was reported before they encoūtred to fight, that <hi>Sce<g ref="char:EOLhyphen"/>dasus</hi> appeared to <hi>Pelopida,</hi> one of the souldiers of the <hi>Theban</hi> armie, who be<g ref="char:EOLhyphen"/>ing afraid of certain tokens, which were iudged vnfortunat, was bid not to feare saying y<seg rend="sup">t</seg> the <hi>Lacedomonians</hi> would come to <hi>Leuctra,</hi> &amp; there to suffer punishment for him and his daughters: and also he commaūded that they should not march forth and fight with their enimies, be<g ref="char:EOLhyphen"/>fore they did offer in sacrifice at the vir<g ref="char:EOLhyphen"/>gins tombe, a white colte, which should be there in a redinesse.
+<note place="margin">Scedasus ap<g ref="char:EOLhyphen"/>peared after his death.</note> It was sayd, that <hi>Pelopida</hi> (the <hi>Lacedemonians</hi> being yet in warfare at <hi>Tegea</hi>) sent to <hi>Leuctra</hi> cer<g ref="char:EOLhyphen"/>taine men, which should séeke and make inquisition for that Tombe, and all the whole matter being found out, and kno<g ref="char:EOLhyphen"/>wen of the inhabitauntes, he broughte forth his armie, and so he wanne the vi<g ref="char:EOLhyphen"/>ctorie.</p>
+            </div>
+            <div type="tale">
+               <pb n="7" facs="tcp:177503:13"/>
+               <head>Of a man who bicause he wold not ma<g ref="char:EOLhyphen"/>rie his daughter, was by the wowers of the maiden slaine, and how the maide escaped from them, in declaring also the deth of the murderers, and the de<g ref="char:EOLhyphen"/>struction and miserable bondage of the maintainers.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here was a certain man called <hi>Phocus</hi> a <hi>Beotian</hi> borne. This man had one daughter excelling in beautie and modestie. Thir<g ref="char:EOLhyphen"/>tie excellent yong men of the <hi>Beotians</hi> desired hir to wife. But <hi>Phocus</hi> delaide hir mariage from day to day, fearing lest there might some violence be offered: fi<g ref="char:EOLhyphen"/>nally they askyng hir mariage, she sayd, that she would aske counsaile of the O<g ref="char:EOLhyphen"/>racle of <hi>Apollo</hi> as touching that choise. They tooke that very grieuously, and vi<g ref="char:EOLhyphen"/>olently slew <hi>Phocus.</hi> But the maiden in that tumulte and trouble fléeing away, wandred through the fields, and the yōg men followed hir. But when she chaun<g ref="char:EOLhyphen"/>ced among husbandmen, whiche heaped vp wheate in a Barne floore, they saued
+<pb facs="tcp:177503:14"/>hir life: for they hid hir in the Wheate, &amp; so she was ouerpassed by them, which pursued hir. Who when shée was esca<g ref="char:EOLhyphen"/>ped (after the assemblie customably kept and common to all the <hi>Beotians</hi>) she wēt to <hi>Coronea,</hi> &amp; there humbly knéeled down to the Altare of <hi>Minerua.</hi> There decla<g ref="char:EOLhyphen"/>ring the iniquity of hir wowers, shewed both the name of euery of them, and also where he was borne. Wherfore the <hi>Be<g ref="char:EOLhyphen"/>otians</hi> had pitie of the Maiden, and were angry with the yong men. But when they heard this, fled to <hi>Horc<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>menum,</hi> frō whence being repelled, went to <hi>Hippote</hi> which is a village scited nigh to <hi>Helicon</hi> betwene <hi>Thebes</hi> and <hi>Coronea.</hi> Then they receiued them. After this, the <hi>Thebanes</hi> sente for the murderers of <hi>Phocus,</hi> and required the same to bée deliuered vnto them. Which when they obtained not, the <hi>Thebans</hi> togither with the residue of the <hi>Beotians</hi> made warre vpon them. <hi>Phedus</hi> was generall Captaine of that battaile, who then was gouernor of the <hi>Thebans.</hi> After they had woonne by as<g ref="char:EOLhyphen"/>sault the village, being very strōgly for<g ref="char:EOLhyphen"/>tified, and the inhabitantes which were
+<pb n="10" facs="tcp:177503:14"/>within it, being almost dead for thirste, toke the murderers of <hi>Phocus,</hi> and bur<g ref="char:EOLhyphen"/>ned them, but the inhabitantes they ca<g ref="char:EOLhyphen"/>ried with them, and brought them into seruitude and bondage, rasing their wal<g ref="char:EOLhyphen"/>les, and ouerthrowing their houses: this done, the <hi>Thebans</hi> and <hi>Coroneians,</hi> deui<g ref="char:EOLhyphen"/>ded their lande betwéene them. It was reported, the nyght before the captiuitie of the <hi>Hippotans,</hi>
+                  <note place="margin">A voice hard</note> that there was a voice oftentimes hearde from <hi>Helicon,</hi> which sayde, I am at hande: and that the thir<g ref="char:EOLhyphen"/>tie yong men which wowed the maiden did knowe the voice, bicause it was like vnto that of <hi>Phocus.</hi> It is lefte in wri<g ref="char:EOLhyphen"/>ting, that the same day they went to bat<g ref="char:EOLhyphen"/>taile,
+<note place="margin">A wonder.</note> the old mans tombe which was in <hi>Clisans,</hi> to haue ouergrowen with Saf<g ref="char:EOLhyphen"/>fron. Worde was brought to <hi>Phedus,</hi> gouernour and generall Capitaine of the <hi>Thebans,</hi> returning from the conflict, that he had a daughter borne, whom he for his good fortune and suc<g ref="char:EOLhyphen"/>cesse, called <hi>Nico<g ref="char:EOLhyphen"/>strata.</hi>
+               </p>
+            </div>
+            <div type="tale">
+               <pb facs="tcp:177503:15"/>
+               <head>Of a man who was iniustly exiled, and how his wife bicause she was destitute of all helpe and succour, slewe both hir selfe and hir daughters.</head>
+               <p>A Certaine man called <hi>Alcippus,</hi> a <hi>Lacedemonian</hi> borne, maried a wife called <hi>Damocrita,</hi> and of hir begat .ij. daughters. Who for as much as he had very greate conside<g ref="char:EOLhyphen"/>ration and regarde to the Citie, and did such things, as hée perceiued to be profi<g ref="char:EOLhyphen"/>table for the common wealth, moued all mens hatred towards him, which main<g ref="char:EOLhyphen"/>tained and nourished all naughtinesse &amp; wyckednesse in the weale publike: by whom the high officers (called <hi>Ephori</hi>) being by false reportes persuaded, that <hi>Alcippus</hi> wold dissolue and breake the lawes, condemned him to bannishment. He departed from <hi>Lacedemon,</hi> but <hi>Da<g ref="char:EOLhyphen"/>mocrita</hi> his wife, which woulde accom<g ref="char:EOLhyphen"/>panie hir selfe togither with hir daugh<g ref="char:EOLhyphen"/>ters, wer forbidden. Yea moreouer they escheated his goodes, that the Maydens might haue no dowrie. But when many
+<pb n="9" facs="tcp:177503:15"/>desired to marie with them, bicause of their fathers vertue, they were prohibi<g ref="char:EOLhyphen"/>ted by a decrée of y<seg rend="sup">e</seg> Senate, to take them to wife, bicause they sayd, that their mo<g ref="char:EOLhyphen"/>ther was heard to desire and make peti<g ref="char:EOLhyphen"/>tiō, that hir daughters might very quic<g ref="char:EOLhyphen"/>kely haue children, which might restore their father to libertie. Seing then on euery side <hi>Damocrita</hi> was impugned &amp; resisted, she repaired to a certaine com<g ref="char:EOLhyphen"/>mon assemblie, where the custome was that y<seg rend="sup">e</seg> wiues togither with their daugh<g ref="char:EOLhyphen"/>ters, all their housholde and Children, shoulde mete togither: but they whiche were of the Nobilitie remained all the night in a certaine part of the house se<g ref="char:EOLhyphen"/>uered from the residue. There she gir<g ref="char:EOLhyphen"/>ding hir swearde vnder hir garmente, brought forth with hir, hir two daugh<g ref="char:EOLhyphen"/>ters, and in the night went to the tem<g ref="char:EOLhyphen"/>ple, and the time being obserued &amp; wat<g ref="char:EOLhyphen"/>ched wherein all were present at the ce<g ref="char:EOLhyphen"/>remonie, when the doores were shutte, she heaped togither against them a gret abundance of wodde: for so muche as it was carried togither at hande, and was ready to the vse of sacrifices. Then shée
+<pb facs="tcp:177503:16"/>set it on fire: &amp; men running thither on euery side to quench it, <hi>Damocrita</hi> slew hir daughters, next hir self: Wherfore, when they had none, on whome they might vtter their wrath and anger, did cast the bodies of <hi>Damo<g ref="char:EOLhyphen"/>crita,</hi> and hir daughters, without the borders and marches of their countrey. Wherfore <hi>Apollo</hi> their God being wroth, caused (as it is written) the great earthquake in <hi>La<g ref="char:EOLhyphen"/>cedemon.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="history">
+            <pb facs="tcp:177503:16"/>
+            <head>The Historie of Chari<g ref="char:EOLhyphen"/>clia and Theagenes Gathered for the most part out of Heliodorus a Greeke Authour.</head>
+            <argument>
+               <head>THE ARGVMENT.</head>
+               <l>Chariclia <hi>is wounded to the harte,</hi>
+               </l>
+               <l>Theagenes <hi>sustaineth wofull smarte,</hi>
+               </l>
+               <l>Charicles <hi>doth all holsome counsel vse,</hi>
+               </l>
+               <l>Calasiris <hi>doth him in deedes abuse.</hi>
+               </l>
+               <l>
+                  <hi>At length, by</hi> Calasiris <hi>learned skill</hi>
+               </l>
+               <l>
+                  <hi>The two first, Louers hot, obtain their will.</hi>
+               </l>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>Here chaunced on a tyme at <hi>Delphos</hi> a great conten<g ref="char:EOLhyphen"/>tion for Honours sake, and omong al other there were two goodly personages the which should contend togither for victo<g ref="char:EOLhyphen"/>rie, <hi>Cupid</hi> being arbitrator and defen<g ref="char:EOLhyphen"/>der, who endeuoured to declare by these two mightie Champions, which he mat<g ref="char:EOLhyphen"/>ched togither, his gretest bickring broil. Such a thing there happened which all <hi>Greece</hi> behelde, and <hi>Amphictiones</hi> were Iudges thereof. After that many things were nobly atchieued, contention in rū<g ref="char:EOLhyphen"/>ning,
+<pb facs="tcp:177503:17"/>gasping in wrasting, fighting w<seg rend="sup">t</seg> the weapons called <hi>Coestus:</hi>
+               <note place="margin">Coestus a vveapō vsed among the Greekes, ha<g ref="char:EOLhyphen"/>uing plum<g ref="char:EOLhyphen"/>mets of Lead hanging at it.</note> smally the Crier made Proclamation that the men in Armes should procede and come forth. And <hi>Chariclia</hi> being settled nigh to the place where their valiant faictes shoulde be tried, shone like a Starre. She came thither, although vnwilling, bycause of the Countrey guise: or rather, hoping somewhere to sée <hi>Theagenes,</hi> bearing in hir left hand a burning Tortche, and in hir other hande holding out a branch of Palme. And assoone as she was séene by and by al the multitude turned to hir. But I knowe not whether any did pre<g ref="char:EOLhyphen"/>uent <hi>Theagenes</hi> looke, for a Louer is re<g ref="char:EOLhyphen"/>die &amp; quick to sée that which he desireth. But yet he moreouer, whē he had heard before that which should be, notwithstā<g ref="char:EOLhyphen"/>ding he gaue his minde wholy to hehold <hi>Chariclia.</hi> Wherfore he could not holde his peace, but sayde softly in mine eare (for he sate nexte to me of a set purpose) she yonder whome you sée, (sayde he) is <hi>Chariclia.</hi> I bid hun to be quiet and say no more. At the Criers Proclamation there came one in handsome Armoure,
+<pb n="11" facs="tcp:177503:17"/>faire to sée and beholde, hauing a stoute stomacke, and he alone among the resi<g ref="char:EOLhyphen"/>due renoumed, as he séemed: who in ti<g ref="char:EOLhyphen"/>mes past had ben coroned at manie gret games, but then had he none, w<seg rend="sup">t</seg> whom he might contēd: no man (as I suppose) daring to encounter with him. Where<g ref="char:EOLhyphen"/>fore the Iudges called <hi>Amphictiones</hi> sente him away: for the lawe doth not permit to giue sentence and iudgement that he should weare a corone, who hath not entred into the games and won the victorie. He requested the Crier to de<g ref="char:EOLhyphen"/>nounce, that he challenged who so euer would come. The Iudges cōmaunded, the Crier proclamed y<seg rend="sup">e</seg> some man should come forth to trie mastries with him for the games. <hi>Theagenes</hi> sayd to me, this man calleth me. But when I had asked him howe he spoke that. Thus it shall be father, sayd he. No other man in my sight and presence shal take away the re<g ref="char:EOLhyphen"/>ward &amp; victory out of <hi>Chariclias</hi> hands. Doest thou nothing at all regarde, and weigh (sayd I) the frustration and igno<g ref="char:EOLhyphen"/>mie which followeth it? Who (sayd he) will contende so furiously to sée and ap<g ref="char:EOLhyphen"/>proch
+<pb facs="tcp:177503:18"/>to <hi>Chariclia,</hi> that he preuent me? To whō truly may hir loke giue wings and lifte him vp on highe, as well as to me? Art thou ignoraunt that Painters make Loue to haue wings: signifying as it were by a Riddle, the dexteritie &amp; nunblenesse of them, who are detained with it? But if it behoue thée to set out those things which are already spoken with bragging &amp; boasting, no man vntil this day hath auaunted that he hath o<g ref="char:EOLhyphen"/>uer runned me on foote. After these thin<g ref="char:EOLhyphen"/>ges spokē he rushed forth, and going in among the people, he tolde his name, &amp; declared his stocke, and did choose a place to runne: and after he had put on al his Armour, he stoode at the entrance of the coursing place, ready to runne his race, and commaunded that signe shoulde bée made by the trumpet, but scarcely looked for it. It was an excellent fight, &amp; goodly to beholde, much like to that sight which <hi>Homere</hi> bringeth in, wherein <hi>Achilles</hi> fighteth at <hi>Scamander.</hi> All <hi>Greece</hi> was moued at that dede which chaunced con<g ref="char:EOLhyphen"/>trary to the Gréekish opinion: and desi<g ref="char:EOLhyphen"/>red that <hi>Theagenes</hi> might become Con<g ref="char:EOLhyphen"/>querour,
+<pb n="12" facs="tcp:177503:18"/>no otherwise than if eche of them should trie for the maistrie. A great force hath euen the beautie of the face to purchase good wil of the beholders. <hi>Cha<g ref="char:EOLhyphen"/>riclia</hi> was also moued beyond measure, and chaunged into diuers countenaun<g ref="char:EOLhyphen"/>ces. For after (so that all might heare) the Crier had reported, and proclaimed, <hi>Ormenus</hi> the <hi>Arcadian,</hi> and <hi>Theage<g ref="char:EOLhyphen"/>nes</hi> the <hi>Thessalian,</hi> they began to make their course, and it was such, that it was almoste done at the twinkling of an eye. The Virgin could not abyde there any longer in quiet, but hir pace was mo<g ref="char:EOLhyphen"/>ued and hir féete did leape for ioye: as thoughe hir minde were taken awaye with <hi>Theagenes,</hi> helping him in his course: and euery one of the lookers on, stoode in doubt of the successe, &amp; were re<g ref="char:EOLhyphen"/>plenished with pensiuenesse. When they had already run halfe their course, <hi>Thea<g ref="char:EOLhyphen"/>genes</hi> tournyng him selfe a little, and looking earnestly vpon <hi>Ormenus</hi> with a frowning face, lifted his shield aboue his head, &amp; with streight stretched necke, and chearefull countenance, altogither fixed vpon <hi>Chariclia,</hi> at last came to the
+<pb facs="tcp:177503:19"/>ende of his course: and did so much out<g ref="char:EOLhyphen"/>runne the <hi>Arcadian</hi> that he was left be<g ref="char:EOLhyphen"/>hinde <hi>Theagenes</hi> many pases: whiche distance after was measured. Then hée running to <hi>Chariclia,</hi> did of a sette pur<g ref="char:EOLhyphen"/>pose fall vpon hir breast, as though hée coulde not refraine and withholde the violence of his course, &amp; when he toke a<g ref="char:EOLhyphen"/>way y<seg rend="sup">e</seg> Palme branch, it was not vnkno<g ref="char:EOLhyphen"/>wen y<seg rend="sup">e</seg> he kissed the maidens hed. <hi>Thea<g ref="char:EOLhyphen"/>genes</hi> hauing won the victorie was co<g ref="char:EOLhyphen"/>roned, &amp; declared conquerour, &amp; brought home honorably, with the reioysing of all men, for the good fortune whiche had hapned vnto him. <hi>Chariclia</hi> truly was quite and cleane conquered, and bond to Loue, more than she was before, when she had séene againe <hi>Theagenes.</hi> For y<seg rend="sup">e</seg> mutuall regard and beholding of louers is the remembrance and renuing of af<g ref="char:EOLhyphen"/>fection, and sight inflameth the minde, euen as fire which is layde to wood. And she cōming home passed that night like the first, or rather more heauily.</p>
+            <p>The morning after, there came one <hi>Calasiris</hi> to <hi>Chariclia,</hi> and found certain of hir very friendes wéeping, and <hi>Cha<g ref="char:EOLhyphen"/>ricles</hi>
+               <pb n="13" facs="tcp:177503:19"/>hir father, not a little mourning: wherfore comming neare, demaunded what the tumult was. <hi>Charicles</hi> sayd: My daughters disease is woxen more greuous and feruēt than it was before, as she hath proued the night past. Get ye hence (sayd he) and depart, and let one bring the thrée footed table in place, lau<g ref="char:EOLhyphen"/>rel, fire, and Frankencense, &amp; let no man trouble me, vntill I call. <hi>Charicles</hi> cō<g ref="char:EOLhyphen"/>maunded these things, and they were o<g ref="char:EOLhyphen"/>beyed. Wherfore hauing oportunitie, he began to play a part as it were vppon a stage, and burned the incense, and made certaine prayers with muttering lippes, and oftentimes putting vp and downe the Laurel from <hi>Chariclias</hi> head to hir féete, who yauned like one which lacked sléepe, or rather like an olde woman: at length he left off, but too late, whilest he had vttered &amp; shewed his trifling toyes against him selfe and the Maiden. Shée oftentimes shaked hir head, and smiled, signfying therby, that he was vtterly de<g ref="char:EOLhyphen"/>ceiued, and was ignorant of the disease. Wherefore sitting more néere vnto hir, sayd: Be of good cheare, for the disease
+<pb facs="tcp:177503:20"/>is vulgar and common, and easie to bée cured: You were bewitched withoute doubt, when you were at the Pompe &amp; solemne sight, but more, when you bare rule at the games. Truely I suspect him who hath bewitched you. It is <hi>Theage<g ref="char:EOLhyphen"/>nes,</hi> whiche striued in the armed course. Neither was it vnknowen, that often<g ref="char:EOLhyphen"/>times he beheld thée, and did caste wan<g ref="char:EOLhyphen"/>ton lookes on thée. Then sayd she? whe<g ref="char:EOLhyphen"/>ther he so looked on me or not, it is of greate force. But what countrie man is he, or where was he borne? for I sawe many meruaile at him with great admi<g ref="char:EOLhyphen"/>ration. You haue heard before of the cri<g ref="char:EOLhyphen"/>er that he is a <hi>Thessalian</hi> borne, when he proclaimed him. He referreth himself to <hi>Achilles,</hi> as author of his stock, and he séemeth to me of good right to chalēge the same, gathering it by his talnesse &amp; fauour, declaring and cōfirming in him <hi>Achilles</hi> nobilitie &amp; puissant corage, besi<g ref="char:EOLhyphen"/>des that he is not arrogāt, nor presump<g ref="char:EOLhyphen"/>ous as he was, but doth appease &amp; mode<g ref="char:EOLhyphen"/>rat his fiercenesse of minde &amp; hautinesse with swéetnesse &amp; pleasantnesse of man<g ref="char:EOLhyphen"/>ners. Whiche although it be so, yet hée
+<pb n="14" facs="tcp:177503:20"/>sustaineth more grieuous gripes assay<g ref="char:EOLhyphen"/>ling his heauie heart than he caused: al<g ref="char:EOLhyphen"/>though he haue an enuious eye, and hath bewitched thée with his looke. O father <hi>Calasiris</hi> (sayd she) I thanke thée, that thou art sorrowfull on my behalfe, and takest it displesantly: but why dost thou in vaine curse him who hath done vs no iniurie: I am not bewitched, nor as the common people terme it, forlooked: but I haue (as it séemeth) an other disease. Why doest thou conceale it my daugh<g ref="char:EOLhyphen"/>ter (sayd he) and dost not rather boldly vtter it, that so much the easier we may finde helpe and remedie: Am not I thy father in age, or rather in good will? Am not I knowen to thy father, &amp; altogither of his counsell? She we me what griefe thou hast, thou shalt finde me a faithfull friende, and if thou wilt, I will be boūd with an oth. Speake boldly, and let not sorrowe take force through silence. For euery sicknesse which is soone knowen, may easily be cured: but that which hath ben of long continuance, is almost incu<g ref="char:EOLhyphen"/>rable, and as <hi>Ouide</hi> sayth in his bookes <hi>Of the Remedie of Loue.</hi>
+            </p>
+            <pb facs="tcp:177503:21"/>
+            <q>
+               <l>
+                  <hi>Preuent the groūds of griping griefe to late is Physike giuen,</hi>
+               </l>
+               <l>
+                  <hi>When maladies through lingring lōg from bodies are not driuen.</hi>
+               </l>
+            </q>
+            <p>Silence is the noursse of diseases: but bicause silence is broken, it may easly be assuaged through cōsolation. Afterward she staying a little at these wordes, and declaring by hir countenance the varia<g ref="char:EOLhyphen"/>ble and diuers mutations and affections of hir minde, shée sayde: Giue me this dayes respite, and after thou shalte heare and vnderstande the matter, except thou knewest it before, for as muche as thou wilt séeme to be skilfull in the Arte of Prophecie. He rose vp, and departed, gi<g ref="char:EOLhyphen"/>uing licence to the Mayden, that in the meane time she might moderate y<seg rend="sup">e</seg> sham<g ref="char:EOLhyphen"/>fastnesse of hir minde. <hi>Charicles</hi> hir fa<g ref="char:EOLhyphen"/>ther met with him, and he asked him what newes, he told him all things wer fortunate, for his daughter <hi>Chariclia</hi> should be deliuered the day following of hir grief. And with these words he made haste away, that he might not demaund more things of him. And when he was a little past the house, he sawe <hi>Theagenes</hi>
+               <pb n="15" facs="tcp:177503:21"/>there walking about the Churche, and Churchyarde, and talking with him self, as though it suffised him, if he saw <hi>Cha<g ref="char:EOLhyphen"/>riclias</hi> dwelling place, whiche was not farre from the church. Wherfore he tur<g ref="char:EOLhyphen"/>ned out of the waye, passing by him, as though he had not séen him. But he said: God saue you <hi>Calasiris,</hi> &amp; a worde or .tj. with you, for I looked for you: Sodainly he turned about saying: what faire <hi>The<g ref="char:EOLhyphen"/>agenes</hi> is it you? In faith I thought not on you. Why is he beautifull (sayde he) which cōtenteth not <hi>Chariclia?</hi> he made semblant that he was in a fume &amp; chafe, and sayd: Thou wilt not ceasse despite<g ref="char:EOLhyphen"/>fully to reproue me, &amp; my arte, whereby she is nowe caught in the snare, and con<g ref="char:EOLhyphen"/>strained to loue thée, and (as it were) doth desire to sée some excellente man. What sayest thou father <hi>Calasiris</hi> sayd he? that <hi>Chariclia</hi> séeth me? Wherfore then dost thou not conduct me vnto hir? and therwithall he ranne forth. Then he taking him by the cloke, sayde: Stande here, although thou be swifte on foote.</p>
+            <p>This businesse is not like a bootie, nor easie to attaine, and sette out for euery
+<pb facs="tcp:177503:22"/>man that will: but it néedeth greate ad<g ref="char:EOLhyphen"/>uisement, that it may be well brought to passe, and great preparation that it may be surely done. Arte thou ignorant that the Virgins father is in greate dignitie and estimation at <hi>Delphos.</hi> Do not the lawes come to thy remembrance, which do appoint and ordaine death for suche men? It maketh no great matter (sayde he) althoughe I die, hauing obtained <hi>Chariclia,</hi> which is my desire: but not<g ref="char:EOLhyphen"/>withstanding, if you thinke best, let vs go to hir father, and request him to giue me his daughter in mariage. We are not truely vnworthie to ioyne affinitie with <hi>Charicles.</hi> We shall not obtaine it (sayde he) not bycause there is any thing, that may be reprehended or missed in you: but <hi>Charicles</hi> of late hath promi<g ref="char:EOLhyphen"/>sed the birgin in mariage to his sisters sonne. He will wéepe (sayd <hi>Theagenes</hi> at the length, what soeuer he be: no man liuing as long as I haue breathe in my body, shall marrie with <hi>Chariclia,</hi> and enioy hir as his wife: This hande and sworde of myne shall not lie so long still and vnoccupied. Leaue off (sayde he)
+<pb n="16" facs="tcp:177503:22"/>there shal be no néede of any such thing: onely obey me, and do as I commaunde thée. For this time depart, and beware, thou be not founde often to cōmen with me, but whē thou méetest with me, come to me quietly, and by your selfe. He de<g ref="char:EOLhyphen"/>parted somwhat sorowful. The next day after <hi>Charicles</hi> méeting with <hi>Calasiris</hi> as soone as hée sawe him, he ranne vn<g ref="char:EOLhyphen"/>to him, and many times kissed his head, continually crying out: Wysedome is much worth, Frendship is much worth, thou haste brought a greate matter to passe. She is taken, which was hard to be taken, and she is conquered, whiche was before vnconquerable. <hi>Chariclia</hi> is in loue. Herevnto he reioyced, and loo<g ref="char:EOLhyphen"/>ked with graue countenance, and state<g ref="char:EOLhyphen"/>ly going, sayde: There was no doubte, but she coulde not sustain the first brūt, seing truely as yet I did put no greater thing vnto hir. But whereby <hi>Charicles</hi> haue you found hir to be a louer? I was persuaded by thée, sayd he. When I had gotten approued and tried Phisitions e<g ref="char:EOLhyphen"/>uen as you warned me, I brought them to looke vpon hir, promising the riches
+<pb facs="tcp:177503:23"/>which I had, for a rewarde, if they could cure hir. They as soone as they were en<g ref="char:EOLhyphen"/>tred, demaunded of hir what disease she had? She verily turning hir face with a loude voice, rehearsed this Verse out of <hi>Homere.</hi>
+            </p>
+            <q>
+               <hi>Achilles tall and stoute, farre passeth all the Greekes.</hi>
+            </q>
+            <p>
+               <hi>Acestinus,</hi> a wise man (perhaps you know the man) takyng hir by the wrest against hir wyll, he séemed to iudge hir disease by hir pulse, declaring (as I sup<g ref="char:EOLhyphen"/>pose) the beating of the heart. And when a long space he had felt hir pulse, and had behelde oftentimes to rise vp and down. O <hi>Charicles</hi> (sayd he) thou hast brought vs hither in vaine, for Physike will no<g ref="char:EOLhyphen"/>thing auail in this maiden. But I made an exclamation, saying: O God, why sayest thou so: is then my daughter past recouerie, and now without all hope of helth? Trouble not thy self (sayd he) but giue eare what I say, &amp; when he had led me apart fro the maiden &amp; others: Our facultie (sayde he) professeth to cure the diseased body, and principally not of the minde, but then only, whē he sustaineth
+<pb n="17" facs="tcp:177503:23"/>griefe with the afflicted body: the body being healed, y<seg rend="sup">e</seg> mind togither is holpen, and recouereth. Moreouer, the maiden hath a disease, but not of the bodie, for there aboundeth no humour, the paine of the head grieueth hir not, no feuer in<g ref="char:EOLhyphen"/>flameth hir, nothing in hir body, neither part, neither all, is detained with sick<g ref="char:EOLhyphen"/>nesse. This truely, is not to be accomp<g ref="char:EOLhyphen"/>ted as true, nor any thing els. But I er<g ref="char:EOLhyphen"/>nestly desiring and requiring him to tell me, if he vnderstoode any thing: Is it not (sayd he) knowē also to the Maiden, that it is an affection and disease of the mind, which is manifest loue? Dost thou not sée, that hir eyes swell and rise vp, and hir looke set awry, hir face pale, not complaining in hir heart? Moreouer hir minde runneth, and what so euer com<g ref="char:EOLhyphen"/>meth to minde she vttereth, and she is vi<g ref="char:EOLhyphen"/>gilant and wakefull without cause. In brief, she hath sodainly lost the moisture of hir body, and the iust quantitie there<g ref="char:EOLhyphen"/>of. Thou muste séeke some man <hi>Chari<g ref="char:EOLhyphen"/>cles,</hi> if it be possible. And when he had spoken these wordes, he departed. I tru<g ref="char:EOLhyphen"/>ly made haste towardes thée, which art
+<pb facs="tcp:177503:24"/>my sauiour and my god, who onely arte able to pleasure vs, which I and she do acknowledge. For I earnestly asking hir, and instantly desiring hir to tell me what she ailed, she answered in few, that she was ignorant, what had hapned vn<g ref="char:EOLhyphen"/>to hir, but she knew, that <hi>Calasiris</hi> and none els could cure hir grief, and she re<g ref="char:EOLhyphen"/>quested me to call thée vnto hir, wherby I did very much cōiecture, that she was catched in the snare by thy wisedome.</p>
+            <p>Canst thou tell (sayde hée to <hi>Calasiris</hi>) as she loueth, so him whom she loueth? No by the faith of my bodie (sayd he) for how or wherby should I know this? I woulde wish truely that she would loue <hi>Alcamenes</hi> aboue all things, whome of late by my will and consent, I haue ap<g ref="char:EOLhyphen"/>pointed to bée hir husbande. And after <hi>Calasiris</hi> had sayde, that it were good to trie what she would do, if he brought in the yong man, and shew him to hir, he commended his counsell, and wente hys way. Againe at such tune as the place of common Iudgement was replenished with a multitude of people, by chaunce he meting with him, sayde: I will tell
+<pb n="18" facs="tcp:177503:24"/>shée a grieuous and vnpleasaunt thing: My daughter séemeth to bée distraught of witte, so straunge a thing hath atta<g ref="char:EOLhyphen"/>ched hir. I brought before hir (as you counselled me) <hi>Alcamenes,</hi> in trimme attire, I presented him. Shée verily, as though she had séene <hi>Gorgons</hi> head, or some thing more fearefuil, with a loude and shrill voice exclamed, and turned hir face to an other part of the chamber, and clasping hir handes about hir necke, she threatned to kill hir selfe, and bounde it with an othe, except we made hast out. We departed from hir in greate haste: for what should we do, seing so great an inconuenience growing? I am come to thée (sayd he) again, requesting thée that thou wilt not suffer hir to perishe, and me to be frustrate of my desire. O <hi>Cha<g ref="char:EOLhyphen"/>ricles</hi> (sayd he) thou didst not say amisse that thy daughter was distract of witte, for the multitude moued hir, which I sent to hir, and the same not small, but which compelled hir, as reson required, to doe those things which she abhorred by nature. Returne home, and wyth gentle communication ceasse not to seke
+<pb facs="tcp:177503:25"/>the secretes of thy daughters heart, in so doing at lengthe shée will disclose vnto you the priuie thoughts of hir heart: for as the Prouerbe is, the oke is cut down &amp; felled to the grounde with many stro<g ref="char:EOLhyphen"/>kes: so she will relent at many demaun<g ref="char:EOLhyphen"/>des although at the firste, seconde, and thirde time, she make deniall to tell, yet at length by cōtinuall crauing to know hir minde, she wil make you partaker of all hir imaginations, and purposed pre<g ref="char:EOLhyphen"/>tence. Wherfore reiecte not my counsell as vaine, not myne, but rather of the ler<g ref="char:EOLhyphen"/>ned Poet <hi>Tibullus,</hi> who sayth:
+<q>
+                  <l>
+                     <hi>Long time doth cause the Lions fierce men to obay:</hi>
+                  </l>
+                  <l>
+                     <hi>Long time doth water freate in sto<g ref="char:EOLhyphen"/>nes a hollow way.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>These wordes spoken, he departed fo<g ref="char:EOLhyphen"/>lowing <hi>Calasiris</hi> counsell as good &amp; hol<g ref="char:EOLhyphen"/>some. When he came home, he founde his daughter oppressed with hir accusto<g ref="char:EOLhyphen"/>med cares, and voide of all comfort and consolation, sayd vnto hir. Thy griefe my onely daughter and ioy, doth no lesse vexe and torment thée, than trouble and disquiet me, for nature compelleth me
+<pb n="19" facs="tcp:177503:25"/>so to do, and the hūble obedience, which I haue always founde in thée. Where<g ref="char:EOLhyphen"/>fore my dearling, and daughter, for a lit<g ref="char:EOLhyphen"/>tle space disclose the cause of thy paine, and authour of thy sorrowe, that thou maist be cured and obtaine thy heartes desire. This sayde, she set asyde hir sadde countenance, and began with chéerefull face, to looke, making semblāt as though she would disclose hir griefe, yet she con<g ref="char:EOLhyphen"/>cealed it, consideryng the sequele, what might befall of it, for shée thoughte per<g ref="char:EOLhyphen"/>haps that she shoulde be depriued of him whome she loued, if he were not to my contentation: and thinking the worste, disclosed no part of hir minde. The next day séeing hys wordes coulde not pre<g ref="char:EOLhyphen"/>uaile, came to <hi>Calasiris,</hi> saying: I pray thée <hi>Calasiris,</hi> trie what thou art able to doe, and I hope by our two meanes, shée will declare the cause and foundation of hir maladie and thornie thoughtes. My good will shall not faile <hi>Charicles,</hi> sayd <hi>Calasiris,</hi> to do thée pleasure. Wherfore I will proue what I am able to do with hir. The nexte daye after hauing visited <hi>Chariclia,</hi> he met with <hi>Charicles</hi> hir fa<g ref="char:EOLhyphen"/>ther,
+<pb facs="tcp:177503:26"/>who as soone as he approched nigh vnto him, he asked him as touching his daughter. <hi>Calasiris</hi> aunswered, that he coulde not as yet féele the bottome of hir minde, hoping notwithstanding at length to know hir whole minde. With these wordes and suche other like, he de<g ref="char:EOLhyphen"/>ceiued <hi>Charicles.</hi> He at that very time vnderstode hir whole minde, which hée disclosed to a friende of <hi>Theagenes,</hi> cal<g ref="char:EOLhyphen"/>led <hi>Cnemon,</hi> as followeth. When (sayd he) I came vnto hir, I found hir alone, altogither wearied with the affection, &amp; endeuouring to striue against hir mind, being altogither afflicted in body, when she had yelded to the disease, and coulde not resist it comming with greate force, after that I had sette them aside which were present, and had commaunded that no mā shuld make any sturre, as though I woulde say certaine prayers and inuo<g ref="char:EOLhyphen"/>cations ouer the mayden: The time is nowe come <hi>Chariclia</hi> (sayde I) to tell what thou aylest (for so thou didst make promise yesterday) and not to conceale the man which beareth thée good will, I can know al things, although thou kéepe
+<pb n="20" facs="tcp:177503:26"/>silence. She tooke me by the hande, and kissing it, wept, and said: O sage <hi>Cala<g ref="char:EOLhyphen"/>siris,</hi> shewe me first this fauoure, suffer me, holding my peace to be vnhappie, se<g ref="char:EOLhyphen"/>ing thou (as thou sayst) doest knowe the disease, and suffer me to accompt as gai<g ref="char:EOLhyphen"/>nes, the ignomie which I haue auoyded, concealing such things, which as wel to suffer, is filthie, as especially to vtter, is more filthie. Although truely, a strong disease hath striken me, but that hath more enfebled me, that at the beginning I did not ouercome the disease, but am conquered of affection, which hath al<g ref="char:EOLhyphen"/>wayes bene spitefull to me before this time, and euen with his hearing doeth contaminate the reuerent name of vir<g ref="char:EOLhyphen"/>ginitie. And he auouching &amp; affirming the same sayd: O daughter, thou doest wisely, in that thou kepest close thy coū<g ref="char:EOLhyphen"/>sels, for I néede not knowe such things as of late I haue found out by my arte: and not without a cause thou art asha<g ref="char:EOLhyphen"/>med to shewe suche things which besée<g ref="char:EOLhyphen"/>meth women to kepe close. But bicause thou hast once felt y<seg rend="sup">e</seg> firie flames of loue, and the sight of <hi>Theagenes</hi> hath decei<g ref="char:EOLhyphen"/>ued
+<pb facs="tcp:177503:27"/>thée (a diuine prophecie truely she<g ref="char:EOLhyphen"/>wed me this) vnderstande that thou art not alone, nor the first which hath pro<g ref="char:EOLhyphen"/>ued this affection, but many noble wo<g ref="char:EOLhyphen"/>men, and many virgins also, and the same touching all other things chaste. Loue truly is the greatest of the Gods, as <hi>Euripides</hi> sayth, and oftentymes is sayde to ouercome them, as <hi>Ouide</hi> wri<g ref="char:EOLhyphen"/>teth: <hi>Both rule and power he hath o<g ref="char:EOLhyphen"/>uer the Gods aboue.</hi> Moreouer, con<g ref="char:EOLhyphen"/>sider howe thou maiste best dispose thy matters at this present. Truely it is a certaine blessyng in the beginning to be voide of loue: but whē thou art in loue to reduce the minde to moderation, it is a singular wisedome. Which thou maist do, if thou wilt beleue me: euen to ban<g ref="char:EOLhyphen"/>nishe the filthie name of inordinate de<g ref="char:EOLhyphen"/>sire, and to imbrace the laufull bonde of mariage, and to tourne the disease in<g ref="char:EOLhyphen"/>to wedlocke. After these wordes <hi>Cne<g ref="char:EOLhyphen"/>mon,</hi> she fell in a greate sweate, and it was manifest altogither, that shée did reioyce in the things whiche shée hadde hearde, she was sollicitous and carefull for those thyngs which shée hoped: Fi<g ref="char:EOLhyphen"/>nally
+<pb n="21" facs="tcp:177503:27"/>she was ashamed for the testimo<g ref="char:EOLhyphen"/>nie of suche things which she did beare in hir minde, in which she was manifest<g ref="char:EOLhyphen"/>ly perceiued. Then when shée had pau<g ref="char:EOLhyphen"/>sed a pretie space: O father <hi>Calasiris,</hi> (sayde she) thou makest mention of ma<g ref="char:EOLhyphen"/>riage, and dost bid me to embrace it, as though it were manifest, that either my father will assent vnto it, or that my eni<g ref="char:EOLhyphen"/>mie will go aboute it. As touching the yong man (sayd he) it is sure ynoughe, for he is more in loue than you are, be<g ref="char:EOLhyphen"/>ing troubled with the like cause. Truly as it is méete, the mindes of you both, at the first méeting, knew the mutuall dig<g ref="char:EOLhyphen"/>nitie of one an other, and fell into a like affection, I truly pleasuring thée, did aug<g ref="char:EOLhyphen"/>ment his desire. Verily your father pro<g ref="char:EOLhyphen"/>uideth you an other husbande, <hi>Alcame<g ref="char:EOLhyphen"/>nes</hi> you know him well inough. Then sayde she: Let him prouide a graue for <hi>Alcamenes</hi> before he marrie with me: Doubtlesse <hi>Theagenes</hi> shall marrie me, or else death shal take me. Wel sayd he, thou muste make semblaunt as though thou doest allowe <hi>Alcamenes</hi> mariage. It is a grieuous thing (sayd she) and al<g ref="char:EOLhyphen"/>so
+<pb facs="tcp:177503:28"/>dishonest to promyse an other before <hi>Theagenes:</hi> but bicause my father hath committed me to the power of the gods, and you also, let me knowe what scope and ende this fained deuise hath, that it may be dissolued before it be brought to the point. In very trouth (sayd he) thou shalt know it. Certaine things tolde be<g ref="char:EOLhyphen"/>fore to women, sometimes haue caused delayes: the same béeing begon out of hande to bée done oftentimes, are more couragiously atchieued. Folow onely my aduise as well in other things, as especi<g ref="char:EOLhyphen"/>ally at this present, that thou maiste ac<g ref="char:EOLhyphen"/>commodate thy selfe to fulfill <hi>Charicles</hi> minde, who wil do nothing without my aduise and counsell. These things shée promised, &amp; he departing from hir, lefte hir mourning. When he was scarce out of the doores, I sawe <hi>Charicles</hi> very sad and full of sorrow, and comming to him sayde: O noble <hi>Charicles,</hi> séeing it be<g ref="char:EOLhyphen"/>houeth thée to reioyce and be glad, and to doe sacrifice to the Gods for thankes giuing, hauing obtained such things, as of late thou diddest desire, <hi>Chariclia</hi> at length through great skill and wisdome
+<pb n="22" facs="tcp:177503:28"/>is inclined to mariage. Thou art sorow<g ref="char:EOLhyphen"/>full and sad, and doest mourne I know not for what mischaunce. He answered. But why should I not? séeing it muste bée, that the dearest dearling I haue a<g ref="char:EOLhyphen"/>liue, shal before she marrie, be caried in<g ref="char:EOLhyphen"/>to a straunge countrey: for I oughte to assent to the dreames, as well as to o<g ref="char:EOLhyphen"/>ther, so especially to these, whiche this night feared me. Me séemed I sawe an Egle sent out from <hi>Apollos</hi> hand, when sodainly he had taken his flight, alas vi<g ref="char:EOLhyphen"/>olently toke my daughter from me, bea<g ref="char:EOLhyphen"/>ring hir to an extreme border of the lād I know not where, full of dark and sha<g ref="char:EOLhyphen"/>dowed pictures. Finally it coulde not be perceiued what he had, séeing there was a great distance betwéene vs, that togi<g ref="char:EOLhyphen"/>ther with his flight, as though he doing it by guile and disceite, might escape my sight. After he had spoken these wordes, I coniectured wherto the dreame tended I withdrawing him from his great fear and trouble of minde, and causing hym to set aparte all suspition of such things which should come to passe, sayd: It sée<g ref="char:EOLhyphen"/>meth to me, that you can not well inter<g ref="char:EOLhyphen"/>prete
+<pb facs="tcp:177503:29"/>dreames, séeyng that the visions which you sawe, prognosticate youre daughters mariage, and do signifie (as it were by a riddle, that the Egle shal take a husbande, that is, that <hi>Chariclia</hi> shall haue <hi>Alcamenes,</hi> these things verily declare that the mariage shall be made, and that by <hi>Apollos</hi> meanes, and as it were, leading the bridegroome by the hande: thou lookest with wrathful face, and interpretest the dreame in y<seg rend="sup">e</seg> worser parte. Wherfore let vs be of good cheare <hi>Charicles,</hi> and yelde our selues wholly to the wil of the Gods, somuch the more endeuouring to persuade the Maiden. After he had interpreted his dream tru<g ref="char:EOLhyphen"/>ly, as he supposed, he with ioyfull minde departed, and I also went towards <hi>Cha<g ref="char:EOLhyphen"/>riclia,</hi> and in like maner went to <hi>Thea<g ref="char:EOLhyphen"/>genes,</hi> whome when I had tolde what should be done, returning home, I was attentife about such things which shuld befall. The nexte daye following these things wée handled. When mydnyght had drowned the Citie with slepe an ar<g ref="char:EOLhyphen"/>med troup of yong men ransacked <hi>Cha<g ref="char:EOLhyphen"/>riclias</hi> house. The Capitaine of this a<g ref="char:EOLhyphen"/>morous
+<pb n="23" facs="tcp:177503:29"/>assaulte was <hi>Theagenes,</hi> who breaking the solemne sight and ostenta<g ref="char:EOLhyphen"/>tion of the yong men sette them in bat<g ref="char:EOLhyphen"/>taile aray, who sodainly making a loude &amp; shrill shoute, and clashing their tergats togither made thē sore afeard, which did scarsly heare it, &amp; with burning torches entred in the house, the doore being easly opened (for it was prouided before hād, that the boltes should easily bée barred) and tooke <hi>Chariclia</hi> awaye by violence, who was in redinesse, forséeing all thin<g ref="char:EOLhyphen"/>ges, and sustaining violence with a wil<g ref="char:EOLhyphen"/>ling minde, togither carying with them certaine stuffe which the virgin desired. After they were gone out of the house, setting aside al warlike clamor, but ma<g ref="char:EOLhyphen"/>king a horrible clashing noise with their weapons, passed through the Citie, ma<g ref="char:EOLhyphen"/>king the Inhabitantes maruellously a<g ref="char:EOLhyphen"/>fearde, who chose the déepe of the night, that they might séeme more fearfull, and the two topped Hill <hi>Pernassus</hi> made an <hi>Eccho</hi> to the sounde made with the ar<g ref="char:EOLhyphen"/>mour. After they were departed the Ci<g ref="char:EOLhyphen"/>tie, as spedily as they coulde, they roade to the <hi>Lochreusian Oetian</hi> Hilles. But
+<pb facs="tcp:177503:30"/>
+               <hi>Theagenes</hi> and <hi>Chariclia</hi> agréeing be<g ref="char:EOLhyphen"/>fore hande, forsooke the <hi>Thessalians,</hi> and fled priuily to <hi>Calasiris</hi> house, and more<g ref="char:EOLhyphen"/>ouer falling to his féete with trembling embraced him, and continually crying: Kepe vs father <hi>Calasiris: Chariclia</hi> on<g ref="char:EOLhyphen"/>ly song this note, looking to the ground, as though she were ashamed of hir dede newly doon: but <hi>Theagenes</hi> added here<g ref="char:EOLhyphen"/>vnto, desiring hym for Gods sake, say<g ref="char:EOLhyphen"/>ing: Kepe <hi>Calasiris</hi> vs straungers, and poore suppliant disfranchised folkes, de<g ref="char:EOLhyphen"/>priued of all men, and liue onely by all men. Kéepe hereafter our bodies placed in fortunes hande, and bonde to chaste loue: Kepe vs voluntarie and wylling to liue in exile, and which doe put oure whole hope in you. His hearte melted with these words, &amp; when he had mour<g ref="char:EOLhyphen"/>ned more inwardly, than in outward ap<g ref="char:EOLhyphen"/>perance for their two heuie cases, so that they perceiued it not: but he comforted and encoraged them, which assuaged his sorrow. Finally, after he had set before their eyes a good hope of prosperous suc<g ref="char:EOLhyphen"/>cesse, bicause the matter was begon by the will of God: I will go (sayde he) to
+<pb n="24" facs="tcp:177503:30"/>accomplishe the residue: but abide you me in this place, giuing youre mindes wholly to this, that you bée not séene.</p>
+            <p>And when he had spoken this, hée made hast away: But <hi>Chariclia</hi> toke him by the coate, and stayed him, saying: O fa<g ref="char:EOLhyphen"/>ther <hi>Calasiris,</hi> this is the beginning of iniustice, or rather of treson, if you leaue me alone, and depart, committing me in<g ref="char:EOLhyphen"/>to <hi>Theagenes</hi> hands: you will not be<g ref="char:EOLhyphen"/>leue howe disloyall a louer is to kéepe a<g ref="char:EOLhyphen"/>warde, if that rest in his power, wherby he may enioy his loue, and wanteth the things which may make him ashamed.</p>
+            <p>Doubtelesse he is more inflamed (as I suppose) when he séeth that before him, which he desireth, to bée destitute of all helpe and succour. Wherfore I will not let you depart, before as wel for the time present, as also for that to come, <hi>Thea<g ref="char:EOLhyphen"/>genes</hi> establishe with an othe my securi<g ref="char:EOLhyphen"/>tie and suretie, that he shall not bed with me, vntill the espousalls bée ended. And when he maruelling at y<seg rend="sup">e</seg> things whiche were spoken, had determined so to doe, and had kindeled fire vpon the Aultare, and had burned the incense, <hi>Theagenes</hi>
+               <pb facs="tcp:177503:31"/>sware, that he had iniurie shewed him, saying: That faith might be broken by preuenting the oth, and onely to be per<g ref="char:EOLhyphen"/>formed willingly with promise of mind, neither that hée coulde commende that minde, which for feare of one more strō<g ref="char:EOLhyphen"/>ger séemeth to be cōpelled: yet he sware by <hi>Apollo</hi> of <hi>Delphos,</hi> and by <hi>Diana,</hi> &amp; <hi>Venus</hi> hir selfe, that he woulde doe all things as <hi>Chariclia</hi> desired. And he and she calling the Gods to witnesse, made the agréement betwene themselues. He commyng a rounde pace to <hi>Charicles,</hi> found the house ful of tumult and mour<g ref="char:EOLhyphen"/>ning, when his seruauntes were nowe com vnto him, &amp; had declared the violent taking away of the Virgin, and that a numbre of Citizens assembled on euery side, which stode about <hi>Charicles</hi> bewai<g ref="char:EOLhyphen"/>ling his heuy chaūce: finally they made meanes, for the ignorāce of such things which were done, and for lacke of coun<g ref="char:EOLhyphen"/>sell to determine on suche things which were to be done, he thūdring out words with a loude voyce, sayde: O vnhappie men and sielly soules, how long yet will you sit dumbe and dastardly, not vnlike
+<pb n="25" facs="tcp:177503:31"/>to dismayed persons, as though togither with aduersitie your mind were takē frō you? Wil not you armed persecute your ennimies? Will not you take and pu<g ref="char:EOLhyphen"/>nishe them, which haue done you iniu<g ref="char:EOLhyphen"/>rie? <hi>Charicles</hi> aunswered, It is super<g ref="char:EOLhyphen"/>fluous perhaps from henceforthe to con<g ref="char:EOLhyphen"/>tend with presēt fortune. For I perceiue that for the wrath of the Gods I suffer this punishement, which since that time as I vntimely entred the sanctified place I saw things which wer not to be séene, the God foreshewed me for that cause I should be depriued of such things, which I helde most deare. Notwithstanding, it hindreth nothing, euen to striue with the Gods, as the Prouerbe is: Verily, I would know them, whom we mynde to pursue, and him, who hath so greate<g ref="char:EOLhyphen"/>ly endomaged vs. It is <hi>Theagenes</hi> the <hi>Thessalian,</hi> sayde he, which you had in so greate admiration, and the yong men which were with hym, were his parta<g ref="char:EOLhyphen"/>kers. Wherfore arise, and assemble the people togither. His commaundement was obeyed, the Captaines denounce a solemne oration, signifying by the trum<g ref="char:EOLhyphen"/>pet
+<pb facs="tcp:177503:32"/>the onset to battaile: immediatly the people were present: the Theater was made in the night nere y<seg rend="sup">e</seg> counsell house. <hi>Charicles</hi> comming before them, and so<g ref="char:EOLhyphen"/>denly falling into great mourning, said: Perhaps Dye mē of <hi>Delphos,</hi> beholding my manifold miserie, you thynke that I haue assembled so greate a multitude, &amp; am com before you to declare my whole mind. Certes it is nothing so, although oftentimes I sustayne suche things as may be compared with the sharp assaul<g ref="char:EOLhyphen"/>tes of vgly death, and now haue a house desolate, destroyed from aboue, &amp; which onely from henceforthe shall be berefte of all them, whiche I accompted deare friendes, in whose conuersation, compa<g ref="char:EOLhyphen"/>ny, &amp; pleasant manners I did delite, and recreate my selfe: yet the frustration and vayne hope of all men, promisyng the findyng of my daughter, doeth as yet su<g ref="char:EOLhyphen"/>staine and helpe me, and moueth me to pacience. But the citie doth more moue mée, whiche I wishe and looke for to be conqueresse, punishing them, whiche haue done it iniurie. Except perhappes the <hi>Thessalian</hi> yong men haue taken
+<pb n="26" facs="tcp:177503:32"/>from vs our stoute stomacke, and indig<g ref="char:EOLhyphen"/>nation from our countrey and countrey Gods. For that whiche is moste grie<g ref="char:EOLhyphen"/>uous, a fewe dauncyng boyes and mi<g ref="char:EOLhyphen"/>nisters of the Sacred Ambassade, de<g ref="char:EOLhyphen"/>parte the chiefest Citie of the <hi>Greekes</hi> béeing ransacked, and the Temple of <hi>A<g ref="char:EOLhyphen"/>pollo</hi> being spoyled, whiche was a ve<g ref="char:EOLhyphen"/>rie precious treasure. Alas <hi>Chariclia,</hi> my delite and pleasure. O implacable and continuall wrathe of the diuine po<g ref="char:EOLhyphen"/>wer which neuer ceasseth to reuenge. If that I myghte fynde <hi>Chariclia,</hi> the ioye whiche I shoulde receyue there<g ref="char:EOLhyphen"/>by, woulde deface all my sorrowes, and expell them quite from my hearte.</p>
+            <p>
+               <hi>Chariclia</hi> my lyfe, my hope, and suc<g ref="char:EOLhyphen"/>cession of my stocke. <hi>Chariclia</hi> my one<g ref="char:EOLhyphen"/>ly solace, and that I maye so say my an<g ref="char:EOLhyphen"/>cor. And the tempeste whiche inuaded me, dyd breake this ancor, and carri<g ref="char:EOLhyphen"/>ed it awaye. <hi>Charicles,</hi> as yet prose<g ref="char:EOLhyphen"/>cutyng his Oration, and through tea<g ref="char:EOLhyphen"/>res slydyng from his purpose, was put to silence by captaine <hi>Hegesias,</hi> willing him no more to mourne, and sayde: O you which are present, it shall bée law<g ref="char:EOLhyphen"/>full
+<pb facs="tcp:177503:33"/>for <hi>Charicles</hi> to lamente hereafter. But lette vs not be ouerwheimed with this mans sorrowe, neither lette vs not rashly with hys teares, as it were with a violente force of Water, bée caried a<g ref="char:EOLhyphen"/>waye, neglectyng occasion, whiche as wel in all things, as especially in warre doeth verye muche auaile. For if wée doe make spéede oute of the assemblie, there remaineth some hope that the eni<g ref="char:EOLhyphen"/>mies may be takē. But if incessantly la<g ref="char:EOLhyphen"/>menting, or rather like women piteously complayning, wée shall by delayes giue greater libertie for them to escape, there is left nothing els, but that we be laugh<g ref="char:EOLhyphen"/>ed to scorne, and that of the yong men, whiche I saye, shoulde be out of hande apprehended, and hanged on the Gal<g ref="char:EOLhyphen"/>lowes, and some of them to bée stained with ignomie by transposing the punish<g ref="char:EOLhyphen"/>ment to their house &amp; stock. This doubt<g ref="char:EOLhyphen"/>lesse may easily be done, if we shall moue the <hi>Thessalians</hi> to indignation againste them whiche haue escaped, and against their posteritie, forbidding them by de<g ref="char:EOLhyphen"/>créee the sacred Ambassade and Funerall sacrificing ceremonies of any noble man
+<pb n="27" facs="tcp:177503:33"/>These wordes pleased the people, and of them were allowed. Let this be establi<g ref="char:EOLhyphen"/>shed by your voices (sayde the captaine) if it séeme good, that there may no more women, holding the price of victorie in hir hande, be shewed to such as contend to runne in armed course. For as far as I can coniecture, therof sprang the be<g ref="char:EOLhyphen"/>ginning of wickednesse, which increased flames ir. <hi>Theagenes</hi> heart, &amp; thoughte vpon this mischief at y<seg rend="sup">e</seg> first sight of hir. It is good for the time to come, to take a<g ref="char:EOLhyphen"/>way the occasion of such an yll practise. After he had obteined this by all mens consent, <hi>Hegesias</hi> gaue signe to depart, the trumpet blew the battaile, and forth they marched, but all in vaine: for they tooke neither <hi>Theagenes,</hi> nor none of his adherents, and returning home ceas<g ref="char:EOLhyphen"/>sed to make searche for their enimies. Afterwarde when all thyngs were ap<g ref="char:EOLhyphen"/>peased, <hi>Calasiris,</hi> partly by his skill, and partely by his persuasions, broughte the matter to suche effecte, that he obtained <hi>Charicles</hi> good will concerning the ma<g ref="char:EOLhyphen"/>riage of <hi>Chariclea,</hi> and <hi>Theagenes.</hi>
+            </p>
+            <p>Which was the cause, that a numbre of
+<pb facs="tcp:177503:34"/>enormities like to ensue, were stayde, and a perpetuall quietnesse to them of <hi>Delphos</hi> purchased.</p>
+         </div>
+         <div type="sayings">
+            <head>¶ The Sentences of the Greeke Philosophers, translated for the most part out of French.</head>
+            <div type="philosopher">
+               <head>Periander of Corinth.</head>
+               <p>
+                  <hi>PEriander</hi> was one of the seauen sa<g ref="char:EOLhyphen"/>ges of <hi>Greece,</hi> &amp; King of <hi>Corinth</hi> his life is at large in <hi>Diogenes La<g ref="char:EOLhyphen"/>ertius li. i. de Philos. vitis.</hi>
+               </p>
+               <list>
+                  <head>His Sentences vvere these.</head>
+                  <item>PLease all men.</item>
+                  <item>Rest of the minde is a good thing.</item>
+                  <item>Inconsideration is daungerous.</item>
+                  <item>Care and great labour can do al things.</item>
+                  <item>Pleasures are mortall, but honours are immortall and endure for euer.</item>
+                  <pb n="28" facs="tcp:177503:34"/>
+                  <item>Be thou the same maner of man to thy friendes being in aduersitie, as thou were to them in their prosperitie.</item>
+                  <item>Gaine gotten by vsurye is a naughtie thing.</item>
+                  <item>Accomplishe thy promisse.</item>
+                  <item>Conceale thy misfortune, lest thou cause thy enimies to reioyce.</item>
+                  <item>Cleaue to truth, and be alwayes true.</item>
+                  <item>Do nothing violently.</item>
+                  <item>Abstaine from voluptuousnesse and ple<g ref="char:EOLhyphen"/>sure of the bodie.</item>
+                  <item>Be mercifull.</item>
+                  <item>Refrayne vices.</item>
+                  <item>Take pitie of thē which ask thée mercie.</item>
+                  <item>Do the things which are iust.</item>
+                  <item>Obey Princes and Magistrates.</item>
+                  <item>Sweare not.</item>
+                  <item>Praise the things which are honest.</item>
+                  <item>Requite a benefite.</item>
+                  <item>Instruct thy children.</item>
+                  <item>Frequent the companie of wise men.</item>
+                  <item>Flée strife and debate.</item>
+                  <item>Estéeme good men.</item>
+                  <item>Gyue eare to that, which doeth belong to thée.</item>
+                  <item>Saue thy selfe from infamie &amp; dishonor.</item>
+                  <pb facs="tcp:177503:35"/>
+                  <item>Answere when it is time.</item>
+                  <item>Doe the things wherof thou maist not repent thée, when thou hast don them.</item>
+                  <item>Enuie no man.</item>
+                  <item>Gaze not here and there.</item>
+                  <item>Follow that which is iust &amp; reasonable.</item>
+                  <item>Honour them which deserue it.</item>
+                  <item>Haue alwayes hope.</item>
+                  <item>Hate false accusers.</item>
+                  <item>Speake gently and courteously to al mē.</item>
+                  <item>When thou hast taken a thing in hand, not agreable to thy nature, chaunge thy purpose.</item>
+                  <item>Do nothing for monies sake.</item>
+                  <item>In speaking disclose not thy secretes.</item>
+                  <item>Punishe not onely offenders, but those which go about to offende.</item>
+                  <item>Continue the friendshippe wherin thou hast a long season remained.</item>
+                  <item>Be prompt &amp; redy to pleasure euery mā</item>
+                  <item>Séeke always peace and concorde.</item>
+                  <item>Feare the officers of the cōmon welth.</item>
+                  <item>Speake not for fauour.</item>
+                  <item>Trust not to thy prosperitie.</item>
+                  <item>Neglect not thy selfe.</item>
+                  <item>Reuerence olde and auncient men.</item>
+                  <item>Feare not to die in the defence of thy
+<pb n="29" facs="tcp:177503:35"/>countrey.</item>
+                  <item>Be not sorrowfull for euery thing.</item>
+                  <item>Beget childrē of noble &amp; honest women.</item>
+                  <item>Hope as a mortall man.</item>
+                  <item>Pardon and forgiue as immortall.</item>
+                  <item>Auaunce not thy selfe through glorie.</item>
+                  <item>Disclose not thy secrete.</item>
+                  <item>Reason not with them which are stron<g ref="char:EOLhyphen"/>ger than thy selfe.</item>
+                  <item>Séeke to bring thy matter to passe.</item>
+                  <item>Thinke vpon mortall things, and séeke not for them which are aboue thée.</item>
+                  <item>Do no iniurie to an other.</item>
+                  <item>Giue that which may not hurt thée.</item>
+                  <item>Be not heauie and sorrowfull.</item>
+                  <item>Mocke not a dead bodie.</item>
+                  <item>Employ thy friends when it is nedefull.</item>
+                  <item>Take such counsell, that thou maist not be reproued.</item>
+                  <item>Delite thy friendes.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Bias.</head>
+               <p>
+                  <hi>BIas,</hi> y<seg rend="sup">e</seg> name of a philosopher of <hi>Pri<g ref="char:EOLhyphen"/>ene,</hi> which was an other of the wise mē of <hi>Grece.</hi> This mā as <hi>Laertius</hi> testifieth, was like a king in all his doings, and gouernour of his countrey,
+<pb facs="tcp:177503:36"/>whom a long tyme he defended &amp; saued from grieuous daungers. But at length when his countrey was inuaded by the enimie, and he was asked why he caried none of his goodes with him, seing they which fled, were loden with goodly and precious things, he answered: I beare all my goodes with me.</p>
+               <list>
+                  <head>His Sentences vvere these.</head>
+                  <item>BLaspheme not <hi>GOD,</hi> but learne of wise men what he is.</item>
+                  <item>Beholde thy selfe in a glasse, and if thou appere beautifull, do the things which are faire &amp; honest: but if thou appere deformed, recompence that deformitie by good and faire maners.</item>
+                  <item>Heare much and speake little.</item>
+                  <item>Vnderstande first that thou goest about, and afterward settle thy selfe to do the worke.</item>
+                  <item>Praise not a man for his riches, whiche is vnworthie of praise.</item>
+                  <item>If thou wilt obtaine any thing, vse fair wordes, and not force.</item>
+                  <item>Get in youth temperaunce, and in olde age wisedome.</item>
+                  <pb n="30" facs="tcp:177503:36"/>
+                  <item>When one is in health, it is the gifte of nature.</item>
+                  <item>Fortune giueth riches.</item>
+                  <item>Wisedome is the goodnesse of y<seg rend="sup">e</seg> mynde.</item>
+                  <item>Bestowe the time, as if thou shouldest liue long, or die incontinent.</item>
+                  <item>Speake not rashely, for it is a token of madnesse.</item>
+                  <item>Enterprise a thyng by little and little, and that which thou haste purposed to do, perseuer firmely in the same.</item>
+                  <item>Anger and Inconsideration are ill coun<g ref="char:EOLhyphen"/>sailers.</item>
+                  <item>The wise man beareth all his goodes with him.</item>
+                  <item>Thinke the life of thy friend thy glorre.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Pittacus the Mitylenean.</head>
+               <p>
+                  <hi>PIttacus,</hi> a Philosopher of the citie of <hi>Mitylene,</hi> &amp; one of the seuē sages of <hi>Greece.</hi> He expelled <hi>Melaucrus,</hi> the Tiran out of <hi>Lesbos,</hi> and bée<g ref="char:EOLhyphen"/>ing chosen capitaine when the <hi>Atheni<g ref="char:EOLhyphen"/>ans</hi> and <hi>Mitylenians</hi> were at discorde, slewe <hi>Phrino</hi> the <hi>Athenian</hi> capitaine, hande to hande.</p>
+               <pb facs="tcp:177503:37"/>
+               <list>
+                  <head>His Sentences vvere these.</head>
+                  <item>TEll no man that which thou wilt do<g ref="char:EOLhyphen"/>for if thou atchieue it not, thou shalt be mocked.</item>
+                  <item>Restore that which is deliuered thée to kéepe.</item>
+                  <item>Endure thy familiars who haue offen<g ref="char:EOLhyphen"/>ded thée in little things.</item>
+                  <item>Missereporte not thy friende, no not thy enimie.</item>
+                  <item>Think not that thy enimie is thy friēd.</item>
+                  <item>Rule thy wife.</item>
+                  <item>Loke for the same of thy children, which thou hast done to thy father or mother</item>
+                  <item>Be not idle.</item>
+                  <item>Be not a iudge among friends.</item>
+                  <item>Contende not with thy father or mo<g ref="char:EOLhyphen"/>ther, although thou dost tell the truth.</item>
+                  <item>Take not authoritie to commaunde, be<g ref="char:EOLhyphen"/>fore thou hast learned to obey.</item>
+                  <item>Mocke not an vnfortunate man.</item>
+                  <item>Let not thy tong runne before thy wit.</item>
+                  <item>Desire not that which can not be done.</item>
+                  <item>Hast not to speake.</item>
+                  <item>Obey the lawes.</item>
+                  <item>Knowe thy selfe.</item>
+                  <item>Aboue all thinges honour God.</item>
+                  <pb n="31" facs="tcp:177503:37"/>
+                  <item>Honour thy father and mother.</item>
+                  <item>Heare willingly.</item>
+                  <item>Breake enimitie and hatred.</item>
+                  <item>Wed a wife of thy sort, lest that if thou take hir of them which be richer than thy selfe, thou gette masters, and not kinsfolke.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Cleobulus Lindius.</head>
+               <p>
+                  <hi>CLeobulus, Euagoras</hi> sonne, and one of the seuen Sages of <hi>Greece,</hi> whose daughter called <hi>Cleobuli<g ref="char:EOLhyphen"/>na,</hi> was an excellent Poete, and made a booke of Riddles, conteyned in thrée thousand verses.</p>
+               <list>
+                  <head>His Sentences vvere these.</head>
+                  <item>BE neuer proude.</item>
+                  <item>Haue care to thy house.</item>
+                  <item>Peruse bookes.</item>
+                  <item>Teache thy children or cause them to be taught.</item>
+                  <item>Iudge iustly.</item>
+                  <item>Do good to good men.</item>
+                  <item>Refraine backbiting.</item>
+                  <item>Be not suspicious.</item>
+                  <pb facs="tcp:177503:38"/>
+                  <item>Winne thy father and mother by paci<g ref="char:EOLhyphen"/>ence.</item>
+                  <item>Remember the benefite which thou hast receyued of any.</item>
+                  <item>Endeuour to vnderstande and learne some worthie and noble thing.</item>
+                  <item>Desire not an other mans goodes.</item>
+                  <item>Put not thy selfe foolishly in daunger.</item>
+                  <item>Loue thy friendes wealthe, and saue it as thine owne.</item>
+                  <item>Do not to an other y<seg rend="sup">e</seg> which thou hatest.</item>
+                  <item>Threaten no man, for that is a woman<g ref="char:EOLhyphen"/>nishe touch.</item>
+                  <item>Go sooner to thy frendes whiche are in aduersitie, than to them which are in prosperitie.</item>
+                  <item>The stone proueth golde, golde proueth a man.</item>
+                  <item>There is nothing more precious than a vowe.</item>
+                  <item>A false accusation corrupteth the life.</item>
+                  <item>The wise and the learned hate liers.</item>
+                  <item>Entertaine thy friendes by benefites, to the ende that they may encrease their loue: doe well to thy enimies, to the ende they may be made thy friendes.</item>
+                  <item>Before thou come out of thy house, con<g ref="char:EOLhyphen"/>sider
+<pb n="32" facs="tcp:177503:38"/>with thy selfe what thou wilt do abroade: and when thou art returned home, consider againe with thy selfe, what thou hast done.</item>
+                  <item>Hearken and giue eare more often than thou speakest.</item>
+                  <item>Refraine thy pleasures.</item>
+                  <item>Flatter not thy wife before any man, and also chide hir not.</item>
+                  <item>Reioyce not of thy good fortune, and be not sorrowfull for thy misfortune.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Chilon the Lacedemonian.</head>
+               <p>
+                  <hi>CHilon,</hi> one of the seuen wise men of <hi>Greece.</hi> Reade <hi>Diog. Laert. li. i. de Phil. Vitis.</hi>
+               </p>
+               <list>
+                  <head>His sentences vvere these.</head>
+                  <item>KNowe thy selfe.</item>
+                  <item>Refraine thy tongue alwayes but es<g ref="char:EOLhyphen"/>pecially in a feast.</item>
+                  <item>Enuie at no man for mortall things.</item>
+                  <item>Exercise thy selfe in temperance.</item>
+                  <item>Choose rather losse than filthie lucre, for that grieueth a man but once, this al<g ref="char:EOLhyphen"/>wayes.</item>
+                  <item>Flée filthie and dishonest things.</item>
+                  <pb facs="tcp:177503:39"/>
+                  <item>Be not suspicious.</item>
+                  <item>Spare time.</item>
+                  <item>Hate false accusations &amp; malicious de<g ref="char:EOLhyphen"/>tractions.</item>
+                  <item>Get thy goodes iustly.</item>
+                  <item>Practise not diuination.</item>
+                  <item>Please all men.</item>
+                  <item>In speaking, sturre not thy handes, for it is a token of a sluggarde.</item>
+                  <item>Vse wisedome.</item>
+                  <item>Be of good maners.</item>
+                  <item>Be not importunate.</item>
+                  <item>If thou say what thou wilt, thou shalte heare that thou wilt not.</item>
+                  <item>Suffer rather losse, than to gayne vn<g ref="char:EOLhyphen"/>iustly.</item>
+                  <item>Speake not before thou hast considered.</item>
+                  <item>Assay not to do that, which can not be done.</item>
+                  <item>Loue as one that woulde hate, hate as one that woulde loue.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Solon of Athenes.</head>
+               <p>
+                  <hi>SOlon,</hi> one of the seuen wyse men of <hi>Greece,</hi> a <hi>Salaminian</hi> borne, who (as <hi>Gellius</hi> witnesseth <hi>li. xvij.</hi>) flourished
+<pb n="33" facs="tcp:177503:39"/>in <hi>Athens,</hi> when <hi>Tarquinius Priscus</hi> ru<g ref="char:EOLhyphen"/>led at <hi>Rome.</hi> He gaue lawes to the <hi>Athenians,</hi> so good and reasonable, that he wonne fauour as wel of the Senate, as of the common people.</p>
+               <list>
+                  <head>His Sentences vvere these.</head>
+                  <item>HOnour God.</item>
+                  <item>Let vnderstanding be thy guide.</item>
+                  <item>Feare &amp; reuerence thy father &amp; mother.</item>
+                  <item>Ayde thy friendes.</item>
+                  <item>A foole can not hold his peace.</item>
+                  <item>Enuie no man.</item>
+                  <item>A naughtie mans tong is sharper than a sworde.</item>
+                  <item>Be true.</item>
+                  <item>If the Prince and Nobilitie lyue accor<g ref="char:EOLhyphen"/>ding as the lawes prescribe, euery coū<g ref="char:EOLhyphen"/>trey &amp; city may be very wel gouerned.</item>
+                  <item>Sweare not.</item>
+                  <item>Obey the lawes.</item>
+                  <item>Thinke that which is iust &amp; reasonable.</item>
+                  <item>Vertue is more faithfull than othes.</item>
+                  <item>That whiche is faire ought to bée done carefully.</item>
+                  <item>Make not a friende hastily, and when thou haste made and proued hym, re<g ref="char:EOLhyphen"/>iect
+<pb facs="tcp:177503:40"/>him not.</item>
+                  <item>Commaunde, but before thou dost com<g ref="char:EOLhyphen"/>maund, learne to obey at cōmaūdemēt.</item>
+                  <item>Being before Princes, speake not: or if thou wilte speake, tell some pleasaunt and mery thing.</item>
+                  <item>Flée naughtie companie.</item>
+                  <item>Misreport not of a trespasse.</item>
+                  <item>The sonne ought not to be constrained to nourish his father, of whom he hath learned no science.</item>
+                  <item>Thinke &amp; consider to the end of thy life.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Thales the Milesian.</head>
+               <p>
+                  <hi>THales,</hi> one of the seuen wise men of <hi>Greece.</hi> He died, when he be<g ref="char:EOLhyphen"/>helde a combate being weried with heate and thurst. He was the first finder out of <hi>Geometria,</hi> emōg the <hi>Greekes,</hi> and a very certaine and faithfull searcher for natures hidden pri<g ref="char:EOLhyphen"/>uities and excellently well skilled in <hi>A<g ref="char:EOLhyphen"/>strologie:</hi> who is reported to haue foūd out the course of time, the blastes of the windes, the mauing of the starres, the sounding and miraculous tearing of the
+<pb n="34" facs="tcp:177503:40"/>shander, the croked course of y<seg rend="sup">e</seg> starres, the yearely recourse of the sunne. This was his saying, when on a time he was demaunded what thing was difficil and hard (he sayd) For a man to know him selfe. When he was demaunded howe we shoulde liue well and vprightly: If (said he) we do not such things, as we reproue in others.</p>
+               <list>
+                  <head>His Sentences vvere these.</head>
+                  <item>HOnour thy Prince.</item>
+                  <item>God was before all things.</item>
+                  <item>Proue thy friendes.</item>
+                  <item>The minde is a very swift thing, for it runneth through all things.</item>
+                  <item>Promise no man.</item>
+                  <item>Necessitie is a very strong thing, for it ouercommeth all things.</item>
+                  <item>Take in good part y<seg rend="sup">e</seg> which chāceth vnto thée.</item>
+                  <item>Flée vices.</item>
+                  <item>Time is a very wise thing, for it findeth out all things.</item>
+                  <item>Séeke honour.</item>
+                  <item>Be carefull of thy life.</item>
+                  <item>Loue peace.</item>
+                  <item>Doe so as thou mayest bée regarded of all men.</item>
+                  <pb facs="tcp:177503:41"/>
+                  <item>Chase him from thy house, who backbi<g ref="char:EOLhyphen"/>teth an other behinde his backe.</item>
+                  <item>The hardest thing of all for a man, is to knowe himselfe.</item>
+                  <item>Do not that whiche thou doest reproue in an other.</item>
+                  <item>Thou must as well be mindefull of thy friendes which are absent, as of them which are present.</item>
+                  <item>The minde ought rather to be adorned with honeste sciences than the bodie with faire apparell.</item>
+                  <item>Séeke not meanes to be riche by deceite.</item>
+                  <item>Thy children will beare thée such friend<g ref="char:EOLhyphen"/>ship as thou haste borne to thy father and mother.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Pittacus.</head>
+               <list>
+                  <item>FAire things are harde to attaine.</item>
+                  <item>Dignitie and office declare what the man is.</item>
+                  <item>He is wise which doth foresée, that there chaunceth no euill, and he is couragi<g ref="char:EOLhyphen"/>ous which endureth it, if it chanceth.</item>
+                  <item>Caste no man in the téethe with his po<g ref="char:EOLhyphen"/>uertie.</item>
+                  <item>Take a wife of thy sorte.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <pb n="35" facs="tcp:177503:41"/>
+               <head>Anacharsis.</head>
+               <p>
+                  <hi>ANacharsis,</hi> a Philosopher, a <hi>Scy<g ref="char:EOLhyphen"/>thian</hi> borne, and of a wonderfull wisedom, as <hi>Cicero</hi> writeth <hi>lib. v. Tuscul.</hi> Hée flourished in <hi>Solons</hi> time. Vpon his images was engraued: Refraine thy tongue, thy bealy, and ve<g ref="char:EOLhyphen"/>nerie. <hi>Plinie</hi> writeth, that <hi>Anacharsis</hi> deuised the potters whéele, by whose tur<g ref="char:EOLunhyphen"/>ning vessels are framed. He went bare foote, he slept vpon the ground, and vsed hunger for his sauce. He sayd, that the lawes were much like cobwebs, bicause the great flies escaped through, and the little flies were fast tied in them.</p>
+               <list>
+                  <head>His Sentences vvere these.</head>
+                  <item>NOne iudgeth of the Science, but the workeman.</item>
+                  <item>Learne howe filthie vices are, by an o<g ref="char:EOLhyphen"/>ther mans déedes.</item>
+                  <item>Refraine thy tongue, thy bealy, and thy carnall concupiscence.</item>
+                  <item>A renoumed friend is better than many common friendes.</item>
+               </list>
+               <pb facs="tcp:177503:42"/>
+               <p>He said that the vine did bring forth. iij. branches, the first of pleasure, the second of dronkennesse, the third of sorow.</p>
+            </div>
+            <div type="philosopher">
+               <head>Aristippus.</head>
+               <p>
+                  <hi>ARistippus,</hi> a philosopher of <hi>Cirene</hi> he was accustomed to say, y<seg rend="sup">e</seg> dain<g ref="char:EOLhyphen"/>tie fare was no impediment for a man to liue wel. His wit was al<g ref="char:EOLhyphen"/>wayes &amp; at al times prompt &amp; redy to all things as the time, place, &amp; person requi<g ref="char:EOLhyphen"/>red, &amp; for this cause was dearly beloued more thā others of <hi>Dionysius.</hi> And as he willingly toke delite in present plesures so also did he little regard pleasures not present. When he departed frō his coū<g ref="char:EOLhyphen"/>trey towardes <hi>Greece,</hi> to studie philoso<g ref="char:EOLhyphen"/>phie, he cōmaunded his seruants to cast away y<seg rend="sup">e</seg> gold which they caried, that they might with lesse trouble make their ior<g ref="char:EOLhyphen"/>ney. He placed the soueraigne goodnesse in voluptie or pleasure.</p>
+               <list>
+                  <head>His Sentences vvere these.</head>
+                  <item>GEt such riches, that when the net is broken they may escape with thée.</item>
+                  <item>The goods of Fortune are lost in diuers sorts, but y<seg rend="sup">e</seg> riches of the minde, which
+<pb n="36" facs="tcp:177503:42"/>we may truely terme riches, can not be destroyde by fire, nor water.</item>
+                  <item>Learne in thy youth that which shall be profitable for thée in thy olde age.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Theophrastus.</head>
+               <p>
+                  <hi>THeophrastus,</hi> a philosopher of <hi>Ere<g ref="char:EOLhyphen"/>sum,</hi> a towne in the Iland of <hi>Les<g ref="char:EOLhyphen"/>bos,</hi> called at the beginning <hi>Tyr<g ref="char:EOLhyphen"/>tamus.</hi> This man was the moste eloquent and best lerned of the <hi>Peripa<g ref="char:EOLhyphen"/>tetickes,</hi> who toke his name of diuine speaking. He was wonte to saye, that a learned man onely of all men was not a straunger in foraine countreys, neither voide of friendes.</p>
+               <list>
+                  <head>This Sentence he vsed.</head>
+                  <item>TIme is the moste precious spendyng that is.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Antisthenes.</head>
+               <p>
+                  <hi>ANtisthenes,</hi> a Philosopher, who when he had taught and red Re<g ref="char:EOLhyphen"/>torike, with great prayse and cō<g ref="char:EOLhyphen"/>mendation, and had heard <hi>Socra<g ref="char:EOLhyphen"/>tes,</hi> he is reported to haue sayde to his scholers: Depart and seke a maister, for
+<pb facs="tcp:177503:43"/>I haue nowe founde one. And immedi<g ref="char:EOLhyphen"/>atly he sold such things as he had, and di<g ref="char:EOLhyphen"/>stributed them among the people, reser<g ref="char:EOLhyphen"/>uing to him selfe nothing but a Mantle.</p>
+               <list>
+                  <head>His Sentences vvere these.</head>
+                  <item>IT is a royall and princely courage to suffer euill, when thou hast done well.</item>
+                  <item>It is farre better to chaunce among cro<g ref="char:EOLhyphen"/>wes than flatterers: for crowes eate the dead, the flatterers consume them which are aliue.</item>
+                  <item>Enuie eateth a man, as rust consumeth yron.</item>
+                  <item>The accorde of brethren is more stron<g ref="char:EOLhyphen"/>ger than any wall.</item>
+                  <item>The principall discipline is to vnlerne euill.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Diogenes.</head>
+               <p>
+                  <hi>DIogenes,</hi> y<seg rend="sup">e</seg> name of a <hi>Cinike</hi> philo<g ref="char:EOLhyphen"/>sopher very famous scholer to <hi>An<g ref="char:EOLhyphen"/>tisthenes,</hi> of whome it is written, that when <hi>Antisthenes</hi> did put a<g ref="char:EOLhyphen"/>way all his scholers, <hi>Diogenes</hi> still abi<g ref="char:EOLhyphen"/>ding with him, woulde not depart: last of all, he threatened to breake his pate with his staffe, except he departed. Vn<g ref="char:EOLhyphen"/>to
+<pb n="37" facs="tcp:177503:43"/>whome hée is reported to haue proffe<g ref="char:EOLhyphen"/>red his head to bée striken, and to haue sayde: There is no staffe so harde and strong which can separate me from thée. He vsed to weare two mantles, bicause of the colde. He vsed his scrippe in stede of a storehouse, and caried a staffe with him, wherwith being olde, he might su<g ref="char:EOLhyphen"/>staine his weake body. He dwelte in the Citie gates, and when he would turne himself in his Tonne, he spake merily &amp; said that he had a turning house, &amp; chan<g ref="char:EOLhyphen"/>ging it self with the times of the yeare? for in Winter he turned the mouthe of his Tonne towards the south, in Som<g ref="char:EOLhyphen"/>mer towardes the northe, and to what place soeuer the sunne inclined, thether furned <hi>Diogenes</hi> y<seg rend="sup">e</seg> mouth of his tonne. It is reported, that he requested <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> the great, who came to sée him, not to stande on the Sunnie side of him. He died being almost foure score and ten ye<g ref="char:EOLhyphen"/>res olde. Some say, y<seg rend="sup">t</seg> he dying, cōmaū<g ref="char:EOLhyphen"/>ded, that his bodie should be cast out vn<g ref="char:EOLhyphen"/>buried, that all beastes mighte be parta<g ref="char:EOLhyphen"/>kers of it. There were. iiij. other of this name.</p>
+               <pb facs="tcp:177503:44"/>
+               <list>
+                  <head>His Sentences vvere these.</head>
+                  <item>A Good man is the Image of God.</item>
+                  <item>The loue of idle persones is slouth<g ref="char:EOLhyphen"/>fulnesse.</item>
+                  <item>Pouertie is miserable in olde age.</item>
+                  <item>Swéete wordes is a halter of hony.</item>
+                  <item>The bealie is the gulfe of life.</item>
+                  <item>A faire harlot, is mortall swéetenesse.</item>
+                  <item>They which talke of goodly things, and do them not, they are like to a Harpe, which soundeth to other that doe not vnderstande it.</item>
+                  <item>He whiche hath no care to liue well, li<g ref="char:EOLhyphen"/>ueth in vaine.</item>
+                  <item>He which is faire, and speaketh filthily, he draweth a Leaden knife out of an Iuorie sheath.</item>
+                  <item>The seruaunt serueth his maister, the wicked men serue couetousnesse.</item>
+                  <item>Science to yong men is sobrietie, to old men solace, to poore men riches, to rich men honour.</item>
+                  <item>Noblenesse, glorie and riches, are coue<g ref="char:EOLhyphen"/>rings of malice.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Socrates.</head>
+               <pb n="38" facs="tcp:177503:44"/>
+               <p>
+                  <hi>SOcrates,</hi> an <hi>Athenian</hi> Philosopher, iudged onely of all men the wysest, who transposed natural Philosophie into Morall. He obserued an equa<g ref="char:EOLhyphen"/>litie in all his doings, y<seg rend="sup">e</seg> vntill his death he had always one kind of countenance, both in prosperitie, and aduersitie. Hée had two wiues at one time, <hi>Xantippa</hi> &amp; <hi>Mirone,</hi> which when they did often scold togither, he would scorne and laugh at them, bicause they striued for him being a man very deformed, hauing a nose as flatte as a cake, his head bald before, his shoulders hairie, his leggs crooked. Last of all, they fell vpon him, and pursuing him siéeing from them, dyd sharpely en<g ref="char:EOLhyphen"/>treate him. On a certain time when he had resisted <hi>Xantippa,</hi>
+                  <note place="margin">A notable skolde.</note> who railed at him out of an vpper loft, béeing well washed with a boll of filthie water, said no more before he had wiped his head: I knewe (sayd he) y<seg rend="sup">e</seg> raine wold follow soone after these thūder claps. <hi>Alcibiades</hi> demaū<g ref="char:EOLhyphen"/>ded him why he did not dryue out of his doores so displeasant and vnquiet a wo<g ref="char:EOLhyphen"/>man. Bicause (sayde <hi>Socrates</hi>) séeing I can abide such a one as she is at home, I
+<pb facs="tcp:177503:45"/>am broughte in vre, and exercised, that abrode I can the better abide and suffer the iniurie of such as are malapert, and vse reprochfull wordes. Againe <hi>Alcibi<g ref="char:EOLhyphen"/>ades</hi> saying, that <hi>Xantippas</hi> railing talke was not to bée suffered. Doest not thou (sayde he) suffer and abide the noyse of géese? Yes sayd <hi>Alcibiades,</hi> bicause they lay egges, and hatch chickens. And <hi>Xan<g ref="char:EOLhyphen"/>tippa</hi> (sayd <hi>Socrates</hi>) doth beare me chil<g ref="char:EOLhyphen"/>dren. Hée was scholler to <hi>Anaxagoras</hi> and <hi>Damon.</hi> Afterwarde he became dis<g ref="char:EOLhyphen"/>ciple to <hi>Archelaus,</hi> a naturall Astrono<g ref="char:EOLhyphen"/>mer: who considering that there was no profite in naturall speculation, deui<g ref="char:EOLhyphen"/>sed Morall philosophie, wherunto he gi<g ref="char:EOLhyphen"/>uing his studie, is reported to haue said:
+<q>THe things whiche are aboue vs be<g ref="char:EOLhyphen"/>long not vnto vs.</q>
+               </p>
+               <list>
+                  <head>He also sayd this Sentence.</head>
+                  <item>I know one onely thing, that is, that I knowe nothing.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Crates.</head>
+               <pb n="39" facs="tcp:177503:45"/>
+               <p>
+                  <hi>CRates,</hi> the name of a <hi>Thebane</hi> Philosopher, who to the intent he might study philosophie y<seg rend="sup">e</seg> quieter casting into the sea, no smal sūme of money, sayd: Hence with a mischief, ye vngracious appetites, I will drowne you, least you drowne me. Neither did he thinke, that a man coulde haue ver<g ref="char:EOLhyphen"/>tue and riches togither.</p>
+               <list>
+                  <head>This Sentence he vsed.</head>
+                  <item>EVen as in euery pomegranate, there is some graine perished, semblably there is founde none, which is wholly voide of vice.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Zeno the Citteian.</head>
+               <p>
+                  <hi>ZEno,</hi> was a Philosopher of <hi>Cy<g ref="char:EOLhyphen"/>prus,</hi> a Citie in <hi>Greece,</hi> chiefe of the <hi>Stoikes</hi> se<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te, who was had in so great honour among the <hi>Athe<g ref="char:EOLhyphen"/>nians,</hi> that they left in his custodie the keyes of their Citie, and in remembrāce of him, they set vp an Image of brasse, hauing a golden Corone on his heade. He died béeing of the age of foure score
+<pb facs="tcp:177503:46"/>and ten without sicknesse. For (as it is reported) when he wēt out of his schole, stumbling at a stone, did breake his fin<g ref="char:EOLhyphen"/>ger, and striking the grounde with his hande, sayde this: I came of <hi>Niobe,</hi> why callest thou me? And immediately strangling him selfe gaue vp the ghoste.</p>
+               <list>
+                  <head>His Sentences vvere these.</head>
+                  <item>EVery riche man is not good, but a man béeing good, hée is incontinent<g ref="char:EOLhyphen"/>ly rich.</item>
+                  <item>Nature hathe gyuen a man two eares, and onely one mouthe, to the end that he should vnderstand much, and speake little.</item>
+                  <item>We oughte rather to drawe men by the eares, than by the cloake: that is to say, by persuasion, and not by force.</item>
+                  <item>The graine called <hi>Lupinum,</hi> layd in wa<g ref="char:EOLhyphen"/>ter waxeth swéete, a man althoughe that he be naturally sad, is made me<g ref="char:EOLhyphen"/>ry with wine.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Themistocles.</head>
+               <pb n="40" facs="tcp:177503:46"/>
+               <p>
+                  <hi>THemistocles,</hi> the name of a noble man of <hi>Athens.</hi> He when he was bannished by his vngratefull coū<g ref="char:EOLhyphen"/>trey men, and béeing created by <hi>Xerxes</hi> chiefe capitaine ouer his armie against the <hi>Athenians,</hi> whē he saw his countrey to be in greate daunger, drin<g ref="char:EOLhyphen"/>king bulles bloud slew him selfe, vnlesse he shoulde séeme vnfaithfull to the king, (vnto whom he was beholding) in figh<g ref="char:EOLhyphen"/>ting not valiauntely, either vnlesse he might séeme to bée an ennimie and de<g ref="char:EOLhyphen"/>stroyer of his countrie. Rede <hi>Plutarch.</hi>
+               </p>
+               <list>
+                  <head>This sentence he vsed.</head>
+                  <item>IT is better to haue men, hauing lack of money, than money hauing lacke of men.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Pericles.</head>
+               <p>
+                  <hi>PEricles,</hi> a noble man of <hi>Athens,</hi> whiche gouerned the Common wealth fortie yeares.</p>
+               <list>
+                  <head>This sentence he vsed.</head>
+                  <item>IT is laufull to loue, but onely to the Aultars: That is to saye: That for a
+<pb facs="tcp:177503:47"/>friende Religion is not to be broken.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Lamachus.</head>
+               <list>
+                  <item>IT is not permitted to reuolt twice in the warre.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Ephicrates.</head>
+               <list>
+                  <item>IT is a very vnfitte worde for a wise man to say: I thought it not, or I vn<g ref="char:EOLhyphen"/>derstode it not.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Marcus Curius.</head>
+               <list>
+                  <item>IT is better to be King ouer thē which haue golde, than to haue golde.</item>
+               </list>
+            </div>
+            <div type="philosopher">
+               <head>Musonius.</head>
+               <list>
+                  <item>IF by trauail thou do any honest thing, the trauaile decayeth, but the honour remaineth. And if by pleasure thou doe any dishonest thing, the pleasure vadeth away, and the dishonestie remaineth.</item>
+               </list>
+               <trailer>The ende of the Sentences of the Greeke Philosophers.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:177503:47"/>
+            <p>Printed at London in Pater Noster Roe, at the Signe of the Mar<g ref="char:EOLhyphen"/>mayde, <hi>by Henrie Bynneman, for <hi>Leonard Maylarde.</hi>
+               </hi>
+            </p>
+            <p>ANNO DOMINI. 1567.</p>
+            <p>
+               <hi>These Bokes are to be solde in Paules Churchyarde, at the signe of the Cock.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
